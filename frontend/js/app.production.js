@@ -19,18 +19,34 @@ class SmartShoppingApp {
         // Initialize the application
         this.init();
     }    getApiBaseUrl() {
-        // Check if we're on GitHub Pages or local development
+        // Check current domain and return appropriate API URL
         const hostname = window.location.hostname;
         
+        // Development environment
         if (hostname === 'localhost' || hostname === '127.0.0.1') {
             return 'http://localhost:8888';
-        } else if (hostname.includes('github.io')) {
-            // For GitHub Pages deployment - update this with your production API URL
-            return 'https://your-production-api.com';
-        } else {
-            // Production environment
-            return 'https://your-production-api.com';
         }
+        
+        // Production environments - domain-specific APIs
+        if (hostname === 'thesmartshoppingsite.com') {
+            return 'https://api.thesmartshoppingsite.com';
+        }
+        if (hostname === 'thesmartshoppingsite.co.uk') {
+            return 'https://api.thesmartshoppingsite.co.uk';
+        }        if (hostname === 'spiritoftheimmortalsltd.co.uk') {
+            return 'https://api.spiritoftheimmortalsltd.co.uk';
+        }
+        if (hostname === 'spiritoftheimmortals.co.uk') {
+            return 'https://api.spiritoftheimmortals.co.uk';
+        }
+        
+        // GitHub Pages or temporary hosting
+        if (hostname.includes('github.io')) {
+            return 'https://your-backend-api.herokuapp.com';
+        }
+        
+        // Default fallback to primary domain
+        return 'https://api.thesmartshoppingsite.com';
     }
 
     async init() {

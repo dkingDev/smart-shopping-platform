@@ -75,12 +75,30 @@ app.add_middleware(GZipMiddleware, minimum_size=1000)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        # Development
         "http://localhost:3000",
         "http://localhost:8000",
         "http://localhost:9999",
+        "http://localhost:8888",
+        
+        # Production domains - Shopping Platform
+        "https://thesmartshoppingsite.com",
+        "https://www.thesmartshoppingsite.com",
+        "https://thesmartshoppingsite.co.uk",
+        "https://www.thesmartshoppingsite.co.uk",
+          # Production domains - Company
+        "https://spiritoftheimmortalsltd.co.uk",
+        "https://www.spiritoftheimmortalsltd.co.uk",
+        "https://spiritoftheimmortals.co.uk",
+        "https://www.spiritoftheimmortals.co.uk",
+        
+        # Temporary hosting
         "https://*.github.io",
         "https://yourusername.github.io",
-        "https://*.herokuapp.com"
+        "https://*.herokuapp.com",
+        "https://*.railway.app",
+        "https://*.vercel.app",
+        "https://*.netlify.app"
     ],
     allow_credentials=True,
     allow_methods=["GET", "POST", "PUT", "DELETE"],

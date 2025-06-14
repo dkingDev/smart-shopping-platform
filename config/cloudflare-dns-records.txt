@@ -1,0 +1,111 @@
+# Smart Shopping Platform - Cloudflare DNS Configuration
+# Copyright (c) 2025 Spirit of the Immortals Ltd
+# Company Registration: 13434726 (England & Wales)
+
+# =============================================================
+# DOMAIN 1: thesmartshoppingsite.com (Primary Platform)
+# =============================================================
+
+# A Records - Point to your server IP
+thesmartshoppingsite.com                A       YOUR_SERVER_IP
+api.thesmartshoppingsite.com           A       YOUR_SERVER_IP
+mail.thesmartshoppingsite.com          A       YOUR_SERVER_IP
+
+# CNAME Records
+www.thesmartshoppingsite.com           CNAME   thesmartshoppingsite.com
+cdn.thesmartshoppingsite.com           CNAME   thesmartshoppingsite.com
+static.thesmartshoppingsite.com        CNAME   thesmartshoppingsite.com
+
+# MX Records (Email)
+thesmartshoppingsite.com               MX      10 mail.thesmartshoppingsite.com
+
+# TXT Records (Email verification, SPF, DKIM)
+thesmartshoppingsite.com               TXT     "v=spf1 include:_spf.google.com ~all"
+_dmarc.thesmartshoppingsite.com        TXT     "v=DMARC1; p=quarantine; rua=mailto:admin@spiritoftheimmortals.co.uk"
+
+# =============================================================
+# DOMAIN 2: thesmartshoppingsite.co.uk (UK Platform)
+# =============================================================
+
+# A Records
+thesmartshoppingsite.co.uk             A       YOUR_SERVER_IP
+api.thesmartshoppingsite.co.uk         A       YOUR_SERVER_IP
+mail.thesmartshoppingsite.co.uk        A       YOUR_SERVER_IP
+
+# CNAME Records
+www.thesmartshoppingsite.co.uk         CNAME   thesmartshoppingsite.co.uk
+cdn.thesmartshoppingsite.co.uk         CNAME   thesmartshoppingsite.co.uk
+
+# MX Records
+thesmartshoppingsite.co.uk             MX      10 mail.thesmartshoppingsite.co.uk
+
+# TXT Records
+thesmartshoppingsite.co.uk             TXT     "v=spf1 include:_spf.google.com ~all"
+_dmarc.thesmartshoppingsite.co.uk      TXT     "v=DMARC1; p=quarantine; rua=mailto:admin@spiritoftheimmortals.co.uk"
+
+# =============================================================
+# DOMAIN 3: spiritoftheimmortals.co.uk (Company UK)
+# =============================================================
+
+# A Records
+spiritoftheimmortals.co.uk             A       YOUR_SERVER_IP
+api.spiritoftheimmortals.co.uk         A       YOUR_SERVER_IP
+mail.spiritoftheimmortals.co.uk        A       YOUR_SERVER_IP
+portal.spiritoftheimmortals.co.uk      A       YOUR_SERVER_IP
+
+# CNAME Records
+www.spiritoftheimmortals.co.uk         CNAME   spiritoftheimmortals.co.uk
+blog.spiritoftheimmortals.co.uk        CNAME   spiritoftheimmortals.co.uk
+
+# MX Records (Primary email domain)
+spiritoftheimmortals.co.uk             MX      10 mail.spiritoftheimmortals.co.uk
+
+# TXT Records
+spiritoftheimmortals.co.uk             TXT     "v=spf1 include:_spf.google.com ~all"
+spiritoftheimmortals.co.uk             TXT     "Spirit of the Immortals Ltd - Company No. 13434726"
+_dmarc.spiritoftheimmortals.co.uk      TXT     "v=DMARC1; p=quarantine; rua=mailto:derek@spiritoftheimmortals.co.uk"
+
+# =============================================================
+# DOMAIN 4: spiritoftheimmortalsltd.co.uk (Company Global)
+# =============================================================
+
+# A Records
+spiritoftheimmortalsltd.co.uk          A       YOUR_SERVER_IP
+api.spiritoftheimmortalsltd.co.uk      A       YOUR_SERVER_IP
+mail.spiritoftheimmortalsltd.co.uk     A       YOUR_SERVER_IP
+
+# CNAME Records
+www.spiritoftheimmortalsltd.co.uk      CNAME   spiritoftheimmortalsltd.co.uk
+blog.spiritoftheimmortalsltd.co.uk     CNAME   spiritoftheimmortalsltd.co.uk
+
+# MX Records
+spiritoftheimmortalsltd.co.uk          MX      10 mail.spiritoftheimmortalsltd.co.uk
+
+# TXT Records
+spiritoftheimmortalsltd.co.uk          TXT     "v=spf1 include:_spf.google.com ~all"
+spiritoftheimmortalsltd.co.uk          TXT     "Spirit of the Immortals Ltd - Global"
+_dmarc.spiritoftheimmortalsltd.co.uk   TXT     "v=DMARC1; p=quarantine; rua=mailto:derek@spiritoftheimmortalsltd.co.uk"
+
+# =============================================================
+# INSTRUCTIONS FOR CLOUDFLARE SETUP
+# =============================================================
+
+# 1. Log into Cloudflare Dashboard
+# 2. Add each domain separately
+# 3. Copy the DNS records above for each domain
+# 4. Replace YOUR_SERVER_IP with your actual server IP
+# 5. Enable "Proxied" (orange cloud) for A records you want protected
+# 6. Enable SSL/TLS Full (strict) mode
+# 7. Enable HSTS and other security features
+
+# Server IP Examples:
+# - AWS EC2: 51.21.152.177
+# - Heroku: Use CNAME to herokuapp.com
+# - Railway: Use CNAME to railway.app
+# - Vercel: Use CNAME to vercel.app
+
+# For email, you can use:
+# - Google Workspace
+# - Microsoft 365
+# - Cloudflare Email Routing (free)
+# - Custom mail server
