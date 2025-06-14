@@ -1,6 +1,13 @@
 /**
  * Smart Shopping Platform - Secure Frontend Application
- * Enforces AWS PostgreSQL authentication for all features
+ * Copyright (c) 2025 Spirit of the Immortals Ltd
+ * Company Registration: 13434726 (England & Wales)
+ * Director: Derek King
+ * 
+ * ALL RIGHTS RESERVED - PROPRIETARY SOFTWARE
+ * This software contains trade secrets and proprietary algorithms.
+ * Unauthorized copying, modification, or distribution is strictly prohibited.
+ * For licensing inquiries: derek.j.king@live.com
  * 
  * Configuration:
  * - All API calls require JWT authentication

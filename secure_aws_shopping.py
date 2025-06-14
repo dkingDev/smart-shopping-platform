@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
 """
-Secure Smart Shopping Website with AWS PostgreSQL Integration
-Production-ready with essential security features
+Smart Shopping Platform - Secure Backend API
+Copyright (c) 2025 Spirit of the Immortals Ltd
+Company Registration: 13434726 (England & Wales)
+Director: Derek King
+
+ALL RIGHTS RESERVED - PROPRIETARY SOFTWARE
+This software contains trade secrets and proprietary algorithms.
+Unauthorized copying, modification, or distribution is strictly prohibited.
+For licensing inquiries: derek.j.king@live.com
+
+Production-ready FastAPI backend with AWS PostgreSQL integration
 """
 
 from dotenv import load_dotenv

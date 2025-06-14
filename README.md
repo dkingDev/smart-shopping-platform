@@ -1,22 +1,31 @@
 # Smart Shopping Platform
 
-[![Tests](https://github.com/yourusername/smart-shopping-platform/workflows/Tests/badge.svg)](https://github.com/yourusername/smart-shopping-platform/actions)
-[![Production](https://github.com/yourusername/smart-shopping-platform/workflows/Production/badge.svg)](https://github.com/yourusername/smart-shopping-platform/actions)
+**Copyright (c) 2025 Spirit of the Immortals Ltd**  
+**Company Registration: 13434726 (England & Wales)**  
+**Director: Derek King**
+
+[![Tests](https://github.com/dkingDev/smart-shopping-platform/workflows/Tests/badge.svg)](https://github.com/dkingDev/smart-shopping-platform/actions)
+[![Production](https://github.com/dkingDev/smart-shopping-platform/workflows/Production/badge.svg)](https://github.com/dkingDev/smart-shopping-platform/actions)
 
 ## 🎯 Overview
 
 A **production-ready, secure smart shopping platform** with AWS PostgreSQL integration, JWT authentication, and comprehensive testing.
 
+**⚠️ PROPRIETARY SOFTWARE** - All rights reserved. See [LICENSE](LICENSE) for terms and conditions.
+
 ## 🚀 Quick Start
 
-### Development
+### User Access
+Visit the live platform: [Smart Shopping Platform](https://dkingdev.github.io/smart-shopping-platform)
+
+### Development Setup
 ```bash
-git clone https://github.com/yourusername/smart-shopping-platform.git
+git clone https://github.com/dkingDev/smart-shopping-platform.git
 cd smart-shopping-platform
 cp .env.example .env
 # Configure your .env file
-pip install -r requirements-minimal.txt
-python scripts/quick_start.py
+pip install -r requirements.txt
+python secure_aws_shopping.py
 ```
 
 ### Testing
@@ -186,6 +195,19 @@ INTO TABLE store_prices;
 ⚡ **Efficient Updates**: Only update changed prices, not entire catalog  
 🔍 **Price Comparison**: Easy cross-store price analysis  
 📈 **Trend Analysis**: Historical price tracking and insights  
+
+## 🔒 License and Legal
+
+This software is proprietary and protected under UK intellectual property law.
+
+**Copyright (c) 2025 Spirit of the Immortals Ltd**  
+**Company Registration: 13434726 (England & Wales)**  
+**Registered Office**: 86 Bede Crescent, Wallsend, NE28 7HL  
+**Director**: Derek King
+
+**ALL RIGHTS RESERVED** - Unauthorized copying, modification, or distribution is strictly prohibited.
+
+For licensing inquiries: derek.j.king@live.com
 
 ## Next Steps
 
