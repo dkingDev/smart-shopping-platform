@@ -1,0 +1,9122 @@
+{
+  "Hipp": {
+    "brand_name": "Hipp",
+    "product_count": 27,
+    "categories": [
+      "Organic Shop",
+      "Baby Toddler"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 13.5
+    }
+  },
+  "Organix": {
+    "brand_name": "Organix",
+    "product_count": 4,
+    "categories": [
+      "Organic Shop",
+      "Baby Toddler"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 2.5
+    }
+  },
+  "Warburtons": {
+    "brand_name": "Warburtons",
+    "product_count": 8,
+    "categories": [
+      "Bakery Cakes",
+      "Free From",
+      "Vegan",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 2.5
+    }
+  },
+  "Clay": {
+    "brand_name": "Clay",
+    "product_count": 5,
+    "categories": [
+      "World Foods",
+      "Bakery Cakes",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.69,
+      "max": 1.85
+    }
+  },
+  "Hovis": {
+    "brand_name": "Hovis",
+    "product_count": 3,
+    "categories": [
+      "World Foods",
+      "Bakery Cakes",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.95,
+      "max": 1.95
+    }
+  },
+  "Deli": {
+    "brand_name": "Deli",
+    "product_count": 2,
+    "categories": [
+      "Bakery Cakes",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Henry": {
+    "brand_name": "Henry",
+    "product_count": 2,
+    "categories": [
+      "Beer Wines Spirits",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Kopparberg": {
+    "brand_name": "Kopparberg",
+    "product_count": 1,
+    "categories": [
+      "Beer Wines Spirits"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 2.1
+    }
+  },
+  "Batemans": {
+    "brand_name": "Batemans",
+    "product_count": 2,
+    "categories": [
+      "Beer Wines Spirits",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Panda": {
+    "brand_name": "Panda",
+    "product_count": 2,
+    "categories": [
+      "Chocolate Sweets",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Sweetzone": {
+    "brand_name": "Sweetzone",
+    "product_count": 8,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.5
+    }
+  },
+  "Hi": {
+    "brand_name": "Hi",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Bon": {
+    "brand_name": "Bon",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Alprose": {
+    "brand_name": "Alprose",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 2.35,
+      "max": 2.35
+    }
+  },
+  "Milka": {
+    "brand_name": "Milka",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 4.7
+    }
+  },
+  "Albanese": {
+    "brand_name": "Albanese",
+    "product_count": 3,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Mike": {
+    "brand_name": "Mike",
+    "product_count": 6,
+    "categories": [
+      "World Foods",
+      "Chocolate Sweets"
+    ],
+    "price_range": {
+      "min": 2.55,
+      "max": 2.55
+    }
+  },
+  "San": {
+    "brand_name": "San",
+    "product_count": 8,
+    "categories": [
+      "Drinks",
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 5.5
+    }
+  },
+  "Starbucks": {
+    "brand_name": "Starbucks",
+    "product_count": 6,
+    "categories": [
+      "Drinks",
+      "Protein Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Rubicon": {
+    "brand_name": "Rubicon",
+    "product_count": 20,
+    "categories": [
+      "Drinks",
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 8.5
+    }
+  },
+  "Ktc": {
+    "brand_name": "Ktc",
+    "product_count": 27,
+    "categories": [
+      "World Foods",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 15.0
+    }
+  },
+  "Bear": {
+    "brand_name": "Bear",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment",
+      "Vegan",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.0
+    }
+  },
+  "Proper": {
+    "brand_name": "Proper",
+    "product_count": 4,
+    "categories": [
+      "Health Wellbeing Medicines",
+      "Vegan",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.0
+    }
+  },
+  "Rajah": {
+    "brand_name": "Rajah",
+    "product_count": 17,
+    "categories": [
+      "World Foods",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 3.19
+    }
+  },
+  "Elephant": {
+    "brand_name": "Elephant",
+    "product_count": 9,
+    "categories": [
+      "Home Garden",
+      "Food Cupboard",
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 18.0
+    }
+  },
+  "Tilda": {
+    "brand_name": "Tilda",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 4.4,
+      "max": 31.0
+    }
+  },
+  "Fuel": {
+    "brand_name": "Fuel",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 3.25
+    }
+  },
+  "Quaker": {
+    "brand_name": "Quaker",
+    "product_count": 5,
+    "categories": [
+      "Protein Shop",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 2.25
+    }
+  },
+  "Bisto": {
+    "brand_name": "Bisto",
+    "product_count": 2,
+    "categories": [
+      "Vegan",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Indus": {
+    "brand_name": "Indus",
+    "product_count": 56,
+    "categories": [
+      "World Foods",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 0.6,
+      "max": 8.0
+    }
+  },
+  "Popchips": {
+    "brand_name": "Popchips",
+    "product_count": 2,
+    "categories": [
+      "Vegan",
+      "Food Cupboard"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.25
+    }
+  },
+  "Free": {
+    "brand_name": "Free",
+    "product_count": 2,
+    "categories": [
+      "Free From",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Violife": {
+    "brand_name": "Violife",
+    "product_count": 2,
+    "categories": [
+      "Free From",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 2.75
+    }
+  },
+  "Yeo": {
+    "brand_name": "Yeo",
+    "product_count": 11,
+    "categories": [
+      "Organic Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 4.0
+    }
+  },
+  "Cauldron": {
+    "brand_name": "Cauldron",
+    "product_count": 4,
+    "categories": [
+      "Meat Poultry",
+      "Fresh",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 3.0
+    }
+  },
+  "Quorn": {
+    "brand_name": "Quorn",
+    "product_count": 5,
+    "categories": [
+      "Meat Poultry",
+      "Fresh",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.65
+    }
+  },
+  "Ehrmann": {
+    "brand_name": "Ehrmann",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.79,
+      "max": 1.79
+    }
+  },
+  "Cathedral": {
+    "brand_name": "Cathedral",
+    "product_count": 6,
+    "categories": [
+      "Protein Shop",
+      "Vegan",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 2.39,
+      "max": 3.75
+    }
+  },
+  "Gosh!": {
+    "brand_name": "Gosh!",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Vegan",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 3.1
+    }
+  },
+  "Eatlean": {
+    "brand_name": "Eatlean",
+    "product_count": 2,
+    "categories": [
+      "Protein Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "For": {
+    "brand_name": "For",
+    "product_count": 8,
+    "categories": [
+      "Protein Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.3
+    }
+  },
+  "Dragonfly": {
+    "brand_name": "Dragonfly",
+    "product_count": 2,
+    "categories": [
+      "Organic Shop",
+      "Fresh"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Novo": {
+    "brand_name": "Novo",
+    "product_count": 19,
+    "categories": [
+      "Health Wellbeing Medicines",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 1.5
+    }
+  },
+  "Home": {
+    "brand_name": "Home",
+    "product_count": 119,
+    "categories": [
+      "Home Garden",
+      "Household",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 59.0
+    }
+  },
+  "Raid": {
+    "brand_name": "Raid",
+    "product_count": 4,
+    "categories": [
+      "Home Garden",
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.2,
+      "max": 5.0
+    }
+  },
+  "Febreze": {
+    "brand_name": "Febreze",
+    "product_count": 42,
+    "categories": [
+      "Home Garden",
+      "Household",
+      "Toys Entertainment",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 9.0
+    }
+  },
+  "Jilong": {
+    "brand_name": "Jilong",
+    "product_count": 3,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 30.0
+    }
+  },
+  "Large": {
+    "brand_name": "Large",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Status": {
+    "brand_name": "Status",
+    "product_count": 9,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 12.0
+    }
+  },
+  "Garden": {
+    "brand_name": "Garden",
+    "product_count": 2,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.99,
+      "max": 18.0
+    }
+  },
+  "Robert": {
+    "brand_name": "Robert",
+    "product_count": 4,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 8.0
+    }
+  },
+  "Canon": {
+    "brand_name": "Canon",
+    "product_count": 3,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 41.0
+    }
+  },
+  "Kids": {
+    "brand_name": "Kids",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 8.5
+    }
+  },
+  "Russell": {
+    "brand_name": "Russell",
+    "product_count": 6,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 16.0,
+      "max": 35.0
+    }
+  },
+  "Viners": {
+    "brand_name": "Viners",
+    "product_count": 6,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 10.0
+    }
+  },
+  "Princess": {
+    "brand_name": "Princess",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Nomad": {
+    "brand_name": "Nomad",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 14.0
+    }
+  },
+  "Easy": {
+    "brand_name": "Easy",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0
+    }
+  },
+  "Zuru": {
+    "brand_name": "Zuru",
+    "product_count": 8,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 20.0
+    }
+  },
+  "Backpack": {
+    "brand_name": "Backpack",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 16.0,
+      "max": 16.0
+    }
+  },
+  "Bbq": {
+    "brand_name": "Bbq",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Solar": {
+    "brand_name": "Solar",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Indigo": {
+    "brand_name": "Indigo",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Jml": {
+    "brand_name": "Jml",
+    "product_count": 14,
+    "categories": [
+      "Home Garden",
+      "Toiletries Beauty",
+      "Toys Entertainment",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 14.99,
+      "max": 39.99
+    }
+  },
+  "Scoville": {
+    "brand_name": "Scoville",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 32.0,
+      "max": 32.0
+    }
+  },
+  "Mookie": {
+    "brand_name": "Mookie",
+    "product_count": 4,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 12.0
+    }
+  },
+  "Bird": {
+    "brand_name": "Bird",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 3.75,
+      "max": 8.0
+    }
+  },
+  "Gorilla": {
+    "brand_name": "Gorilla",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Morrisoms": {
+    "brand_name": "Morrisoms",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Storage": {
+    "brand_name": "Storage",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Hp": {
+    "brand_name": "Hp",
+    "product_count": 3,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 22.0,
+      "max": 24.0
+    }
+  },
+  "George": {
+    "brand_name": "George",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 30.0,
+      "max": 30.0
+    }
+  },
+  "Pyrex": {
+    "brand_name": "Pyrex",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Tower": {
+    "brand_name": "Tower",
+    "product_count": 2,
+    "categories": [
+      "Home Garden",
+      "Household"
+    ],
+    "price_range": {
+      "min": 9.0,
+      "max": 139.0
+    }
+  },
+  "Maximus": {
+    "brand_name": "Maximus",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 10.0
+    }
+  },
+  "Plastic": {
+    "brand_name": "Plastic",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Bar": {
+    "brand_name": "Bar",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "300tc": {
+    "brand_name": "300tc",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 27.0,
+      "max": 27.0
+    }
+  },
+  "Silentnight": {
+    "brand_name": "Silentnight",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0
+    }
+  },
+  "Polar": {
+    "brand_name": "Polar",
+    "product_count": 3,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 6.0
+    }
+  },
+  "Uefa": {
+    "brand_name": "Uefa",
+    "product_count": 2,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Sage": {
+    "brand_name": "Sage",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "100%": {
+    "brand_name": "100%",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Tinc": {
+    "brand_name": "Tinc",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Silly": {
+    "brand_name": "Silly",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Cot": {
+    "brand_name": "Cot",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0
+    }
+  },
+  "Chef": {
+    "brand_name": "Chef",
+    "product_count": 2,
+    "categories": [
+      "Home Garden",
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.75
+    }
+  },
+  "Scandi": {
+    "brand_name": "Scandi",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Lock": {
+    "brand_name": "Lock",
+    "product_count": 2,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.5
+    }
+  },
+  "Dog": {
+    "brand_name": "Dog",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Tcp": {
+    "brand_name": "Tcp",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 25.0,
+      "max": 25.0
+    }
+  },
+  "Nu": {
+    "brand_name": "Nu",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Zip": {
+    "brand_name": "Zip",
+    "product_count": 3,
+    "categories": [
+      "Home Garden",
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.1,
+      "max": 4.1
+    }
+  },
+  "4": {
+    "brand_name": "4",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Siskin": {
+    "brand_name": "Siskin",
+    "product_count": 3,
+    "categories": [
+      "Home Garden",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 15.0
+    }
+  },
+  "Woodland": {
+    "brand_name": "Woodland",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Pilot": {
+    "brand_name": "Pilot",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Epson": {
+    "brand_name": "Epson",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0
+    }
+  },
+  "Marker": {
+    "brand_name": "Marker",
+    "product_count": 1,
+    "categories": [
+      "Home Garden"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Dylon": {
+    "brand_name": "Dylon",
+    "product_count": 6,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Lenor": {
+    "brand_name": "Lenor",
+    "product_count": 52,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 10.5
+    }
+  },
+  "Kleenex": {
+    "brand_name": "Kleenex",
+    "product_count": 17,
+    "categories": [
+      "Toiletries Beauty",
+      "Household"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 4.0
+    }
+  },
+  "Andrex": {
+    "brand_name": "Andrex",
+    "product_count": 17,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 11.75
+    }
+  },
+  "Astonish": {
+    "brand_name": "Astonish",
+    "product_count": 22,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 3.75
+    }
+  },
+  "Regina": {
+    "brand_name": "Regina",
+    "product_count": 5,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 5.75
+    }
+  },
+  "Flash": {
+    "brand_name": "Flash",
+    "product_count": 21,
+    "categories": [
+      "Household",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 16.0
+    }
+  },
+  "Ariel": {
+    "brand_name": "Ariel",
+    "product_count": 16,
+    "categories": [
+      "World Foods",
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 16.0
+    }
+  },
+  "Comfort": {
+    "brand_name": "Comfort",
+    "product_count": 28,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 8.0
+    }
+  },
+  "Mr": {
+    "brand_name": "Mr",
+    "product_count": 7,
+    "categories": [
+      "World Foods",
+      "Household",
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.6
+    }
+  },
+  "Fairy": {
+    "brand_name": "Fairy",
+    "product_count": 49,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 14.0
+    }
+  },
+  "Persil": {
+    "brand_name": "Persil",
+    "product_count": 26,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.25,
+      "max": 12.0
+    }
+  },
+  "Finish": {
+    "brand_name": "Finish",
+    "product_count": 12,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 15.0
+    }
+  },
+  "Duck": {
+    "brand_name": "Duck",
+    "product_count": 19,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 5.0
+    }
+  },
+  "Bloo": {
+    "brand_name": "Bloo",
+    "product_count": 7,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 2.75
+    }
+  },
+  "Surf": {
+    "brand_name": "Surf",
+    "product_count": 8,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 10.5
+    }
+  },
+  "Bold": {
+    "brand_name": "Bold",
+    "product_count": 10,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 6.5,
+      "max": 11.0
+    }
+  },
+  "Harpic": {
+    "brand_name": "Harpic",
+    "product_count": 10,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 4.0
+    }
+  },
+  "Pink": {
+    "brand_name": "Pink",
+    "product_count": 7,
+    "categories": [
+      "Household",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.5
+    }
+  },
+  "Airwick": {
+    "brand_name": "Airwick",
+    "product_count": 6,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 13.5
+    }
+  },
+  "Air": {
+    "brand_name": "Air",
+    "product_count": 26,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 13.5
+    }
+  },
+  "Polylina": {
+    "brand_name": "Polylina",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.5
+    }
+  },
+  "Domestos": {
+    "brand_name": "Domestos",
+    "product_count": 4,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 3.0
+    }
+  },
+  "Ace": {
+    "brand_name": "Ace",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Elbow": {
+    "brand_name": "Elbow",
+    "product_count": 5,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.85
+    }
+  },
+  "Ecover": {
+    "brand_name": "Ecover",
+    "product_count": 6,
+    "categories": [
+      "Household",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 7.0
+    }
+  },
+  "Marigold": {
+    "brand_name": "Marigold",
+    "product_count": 4,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 3.6
+    }
+  },
+  "Bin": {
+    "brand_name": "Bin",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Daz": {
+    "brand_name": "Daz",
+    "product_count": 3,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.6,
+      "max": 7.0
+    }
+  },
+  "Plenty": {
+    "brand_name": "Plenty",
+    "product_count": 4,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.35,
+      "max": 8.25
+    }
+  },
+  "Glade": {
+    "brand_name": "Glade",
+    "product_count": 35,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 6.0
+    }
+  },
+  "Cif": {
+    "brand_name": "Cif",
+    "product_count": 7,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.0
+    }
+  },
+  "Oust": {
+    "brand_name": "Oust",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.7,
+      "max": 3.0
+    }
+  },
+  "Dr.": {
+    "brand_name": "Dr.",
+    "product_count": 5,
+    "categories": [
+      "Household",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 4.5
+    }
+  },
+  "Good": {
+    "brand_name": "Good",
+    "product_count": 60,
+    "categories": [
+      "Household",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 20.0
+    }
+  },
+  "Mighty": {
+    "brand_name": "Mighty",
+    "product_count": 7,
+    "categories": [
+      "Household",
+      "Toys Entertainment",
+      "Vegan",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.75
+    }
+  },
+  "Spontex": {
+    "brand_name": "Spontex",
+    "product_count": 5,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.45,
+      "max": 3.8
+    }
+  },
+  "Dettol": {
+    "brand_name": "Dettol",
+    "product_count": 18,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 7.5
+    }
+  },
+  "Viakal": {
+    "brand_name": "Viakal",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Buster": {
+    "brand_name": "Buster",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Bacofoil": {
+    "brand_name": "Bacofoil",
+    "product_count": 3,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.75
+    }
+  },
+  "Dp": {
+    "brand_name": "Dp",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.35,
+      "max": 2.35
+    }
+  },
+  "Brillo": {
+    "brand_name": "Brillo",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Wastesmart": {
+    "brand_name": "Wastesmart",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Surcare": {
+    "brand_name": "Surcare",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Crystale": {
+    "brand_name": "Crystale",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Pledge": {
+    "brand_name": "Pledge",
+    "product_count": 3,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 3.5
+    }
+  },
+  "Zoflora": {
+    "brand_name": "Zoflora",
+    "product_count": 7,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 5.0
+    }
+  },
+  "Sanmex": {
+    "brand_name": "Sanmex",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Non": {
+    "brand_name": "Non",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 2.0
+    }
+  },
+  "Method": {
+    "brand_name": "Method",
+    "product_count": 5,
+    "categories": [
+      "Household",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.5
+    }
+  },
+  "Oven": {
+    "brand_name": "Oven",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.0
+    }
+  },
+  "Calgon": {
+    "brand_name": "Calgon",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 7.5,
+      "max": 7.5
+    }
+  },
+  "Dishmatic": {
+    "brand_name": "Dishmatic",
+    "product_count": 8,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.95
+    }
+  },
+  "Cillit": {
+    "brand_name": "Cillit",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.65,
+      "max": 4.75
+    }
+  },
+  "Dr": {
+    "brand_name": "Dr",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Vanish": {
+    "brand_name": "Vanish",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 10.0
+    }
+  },
+  "Vileda": {
+    "brand_name": "Vileda",
+    "product_count": 5,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 6.5
+    }
+  },
+  "Designer": {
+    "brand_name": "Designer",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Scrub": {
+    "brand_name": "Scrub",
+    "product_count": 2,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 3.0
+    }
+  },
+  "Milton": {
+    "brand_name": "Milton",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.4,
+      "max": 3.4
+    }
+  },
+  "Bic": {
+    "brand_name": "Bic",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty",
+      "Household"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 3.5
+    }
+  },
+  "Homefire": {
+    "brand_name": "Homefire",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Duracell": {
+    "brand_name": "Duracell",
+    "product_count": 32,
+    "categories": [
+      "Household",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 35.0
+    }
+  },
+  "Cherry": {
+    "brand_name": "Cherry",
+    "product_count": 3,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 5.25
+    }
+  },
+  "Febreeze": {
+    "brand_name": "Febreeze",
+    "product_count": 2,
+    "categories": [
+      "Household",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 7.2,
+      "max": 7.2
+    }
+  },
+  "Kiwi": {
+    "brand_name": "Kiwi",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Ajax": {
+    "brand_name": "Ajax",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Yankee": {
+    "brand_name": "Yankee",
+    "product_count": 4,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 5.0
+    }
+  },
+  "Microban": {
+    "brand_name": "Microban",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Calvin": {
+    "brand_name": "Calvin",
+    "product_count": 1,
+    "categories": [
+      "Household"
+    ],
+    "price_range": {
+      "min": 18.0,
+      "max": 18.0
+    }
+  },
+  "Jelly": {
+    "brand_name": "Jelly",
+    "product_count": 8,
+    "categories": [
+      "Household",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 5.4
+    }
+  },
+  "Gressingham": {
+    "brand_name": "Gressingham",
+    "product_count": 6,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 7.5
+    }
+  },
+  "Finnebrogue": {
+    "brand_name": "Finnebrogue",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Edwards": {
+    "brand_name": "Edwards",
+    "product_count": 3,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Jolly": {
+    "brand_name": "Jolly",
+    "product_count": 10,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 7.99
+    }
+  },
+  "Simon": {
+    "brand_name": "Simon",
+    "product_count": 15,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.04
+    }
+  },
+  "Market": {
+    "brand_name": "Market",
+    "product_count": 79,
+    "categories": [
+      "Meat Poultry",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 40.8
+    }
+  },
+  "Richmond": {
+    "brand_name": "Richmond",
+    "product_count": 12,
+    "categories": [
+      "Meat Poultry",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 4.0
+    }
+  },
+  "Heck": {
+    "brand_name": "Heck",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.15,
+      "max": 3.25
+    }
+  },
+  "Lions": {
+    "brand_name": "Lions",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 4.0
+    }
+  },
+  "We": {
+    "brand_name": "We",
+    "product_count": 4,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.29,
+      "max": 4.75
+    }
+  },
+  "Tofoo": {
+    "brand_name": "Tofoo",
+    "product_count": 5,
+    "categories": [
+      "Meat Poultry",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 3.5
+    }
+  },
+  "Spoiltpig": {
+    "brand_name": "Spoiltpig",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 3.25
+    }
+  },
+  "Mattessons": {
+    "brand_name": "Mattessons",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Bury": {
+    "brand_name": "Bury",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Birds": {
+    "brand_name": "Birds",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 4.39,
+      "max": 4.39
+    }
+  },
+  "Highland": {
+    "brand_name": "Highland",
+    "product_count": 3,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 6.0
+    }
+  },
+  "Lawsons": {
+    "brand_name": "Lawsons",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Spoilt": {
+    "brand_name": "Spoilt",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 3.25
+    }
+  },
+  "Oakpark": {
+    "brand_name": "Oakpark",
+    "product_count": 3,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.4
+    }
+  },
+  "Black": {
+    "brand_name": "Black",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Lion": {
+    "brand_name": "Lion",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Beyond": {
+    "brand_name": "Beyond",
+    "product_count": 3,
+    "categories": [
+      "Meat Poultry",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.3
+    }
+  },
+  "Tgi": {
+    "brand_name": "Tgi",
+    "product_count": 4,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 5.5
+    }
+  },
+  "Malcom": {
+    "brand_name": "Malcom",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Vegetarian": {
+    "brand_name": "Vegetarian",
+    "product_count": 4,
+    "categories": [
+      "Meat Poultry",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.15,
+      "max": 3.15
+    }
+  },
+  "Malcolm": {
+    "brand_name": "Malcolm",
+    "product_count": 6,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.25
+    }
+  },
+  "Real": {
+    "brand_name": "Real",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment",
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 10.0
+    }
+  },
+  "Speyside": {
+    "brand_name": "Speyside",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.75
+    }
+  },
+  "Halls": {
+    "brand_name": "Halls",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Westaway": {
+    "brand_name": "Westaway",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 6.4,
+      "max": 6.4
+    }
+  },
+  "Westaways": {
+    "brand_name": "Westaways",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 6.4,
+      "max": 6.4
+    }
+  },
+  "Jeff": {
+    "brand_name": "Jeff",
+    "product_count": 1,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 4.05,
+      "max": 4.05
+    }
+  },
+  "Macsween": {
+    "brand_name": "Macsween",
+    "product_count": 3,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 3.0
+    }
+  },
+  "Cherrywood": {
+    "brand_name": "Cherrywood",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 6.0
+    }
+  },
+  "Harrogate": {
+    "brand_name": "Harrogate",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Tarczynski": {
+    "brand_name": "Tarczynski",
+    "product_count": 8,
+    "categories": [
+      "World Foods",
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 4.5
+    }
+  },
+  "Gills": {
+    "brand_name": "Gills",
+    "product_count": 2,
+    "categories": [
+      "Meat Poultry"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Gourmet": {
+    "brand_name": "Gourmet",
+    "product_count": 21,
+    "categories": [
+      "Meat Poultry",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 0.7,
+      "max": 15.5
+    }
+  },
+  "Pukka": {
+    "brand_name": "Pukka",
+    "product_count": 2,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.75,
+      "max": 4.75
+    }
+  },
+  "Shankar": {
+    "brand_name": "Shankar",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 9.0
+    }
+  },
+  "Piccolo": {
+    "brand_name": "Piccolo",
+    "product_count": 11,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 3.0
+    }
+  },
+  "James": {
+    "brand_name": "James",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.3,
+      "max": 3.3
+    }
+  },
+  "Purely": {
+    "brand_name": "Purely",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 5.05,
+      "max": 5.05
+    }
+  },
+  "Kallo": {
+    "brand_name": "Kallo",
+    "product_count": 5,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 2.25
+    }
+  },
+  "Biona": {
+    "brand_name": "Biona",
+    "product_count": 8,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.59,
+      "max": 3.69
+    }
+  },
+  "Minor": {
+    "brand_name": "Minor",
+    "product_count": 2,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 2.15
+    }
+  },
+  "Clipper": {
+    "brand_name": "Clipper",
+    "product_count": 5,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 6.5
+    }
+  },
+  "Nairns": {
+    "brand_name": "Nairns",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Rude": {
+    "brand_name": "Rude",
+    "product_count": 5,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 2.3,
+      "max": 2.3
+    }
+  },
+  "Alpro": {
+    "brand_name": "Alpro",
+    "product_count": 10,
+    "categories": [
+      "Protein Shop",
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.3
+    }
+  },
+  "Rebel": {
+    "brand_name": "Rebel",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.95,
+      "max": 4.95
+    }
+  },
+  "Buckwud": {
+    "brand_name": "Buckwud",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 6.2,
+      "max": 6.2
+    }
+  },
+  "Codorniu": {
+    "brand_name": "Codorniu",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 10.75,
+      "max": 10.75
+    }
+  },
+  "Oatly": {
+    "brand_name": "Oatly",
+    "product_count": 3,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.2
+    }
+  },
+  "Rowse": {
+    "brand_name": "Rowse",
+    "product_count": 5,
+    "categories": [
+      "World Foods",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 5.75
+    }
+  },
+  "Baby": {
+    "brand_name": "Baby",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 2.0
+    }
+  },
+  "Weetabix": {
+    "brand_name": "Weetabix",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.1,
+      "max": 4.1
+    }
+  },
+  "Sacla'": {
+    "brand_name": "Sacla'",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.6,
+      "max": 3.6
+    }
+  },
+  "Kendamil": {
+    "brand_name": "Kendamil",
+    "product_count": 4,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 15.0
+    }
+  },
+  "Green": {
+    "brand_name": "Green",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Whole": {
+    "brand_name": "Whole",
+    "product_count": 3,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.6,
+      "max": 4.5
+    }
+  },
+  "Childs": {
+    "brand_name": "Childs",
+    "product_count": 5,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.95,
+      "max": 8.0
+    }
+  },
+  "Perfect": {
+    "brand_name": "Perfect",
+    "product_count": 2,
+    "categories": [
+      "Pet Shop",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 10.5
+    }
+  },
+  "Totm": {
+    "brand_name": "Totm",
+    "product_count": 4,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.2,
+      "max": 3.35
+    }
+  },
+  "Aspall": {
+    "brand_name": "Aspall",
+    "product_count": 2,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 2.2
+    }
+  },
+  "Sacla": {
+    "brand_name": "Sacla",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Ishara": {
+    "brand_name": "Ishara",
+    "product_count": 11,
+    "categories": [
+      "World Foods",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.45,
+      "max": 3.0
+    }
+  },
+  "Oxo": {
+    "brand_name": "Oxo",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 1.9
+    }
+  },
+  "De": {
+    "brand_name": "De",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Califia": {
+    "brand_name": "Califia",
+    "product_count": 3,
+    "categories": [
+      "Vegan",
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 2.45
+    }
+  },
+  "Tideford": {
+    "brand_name": "Tideford",
+    "product_count": 2,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Hilltop": {
+    "brand_name": "Hilltop",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 5.3,
+      "max": 5.3
+    }
+  },
+  "Doves": {
+    "brand_name": "Doves",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Carta": {
+    "brand_name": "Carta",
+    "product_count": 1,
+    "categories": [
+      "Organic Shop"
+    ],
+    "price_range": {
+      "min": 9.0,
+      "max": 9.0
+    }
+  },
+  "Felix": {
+    "brand_name": "Felix",
+    "product_count": 49,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 15.0
+    }
+  },
+  "Wagg": {
+    "brand_name": "Wagg",
+    "product_count": 17,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 16.0
+    }
+  },
+  "Sheba": {
+    "brand_name": "Sheba",
+    "product_count": 32,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 0.7,
+      "max": 19.0
+    }
+  },
+  "Pedigree": {
+    "brand_name": "Pedigree",
+    "product_count": 41,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 28.0
+    }
+  },
+  "Adventuros": {
+    "brand_name": "Adventuros",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Dentalife": {
+    "brand_name": "Dentalife",
+    "product_count": 7,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 5.65
+    }
+  },
+  "Bakers": {
+    "brand_name": "Bakers",
+    "product_count": 15,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 9.0
+    }
+  },
+  "Iams": {
+    "brand_name": "Iams",
+    "product_count": 12,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 7.65
+    }
+  },
+  "Winalot": {
+    "brand_name": "Winalot",
+    "product_count": 12,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 25.75
+    }
+  },
+  "Cesar": {
+    "brand_name": "Cesar",
+    "product_count": 7,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 6.6
+    }
+  },
+  "Harringtons": {
+    "brand_name": "Harringtons",
+    "product_count": 19,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 31.0
+    }
+  },
+  "Chappie": {
+    "brand_name": "Chappie",
+    "product_count": 6,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 27.0
+    }
+  },
+  "Collapsible": {
+    "brand_name": "Collapsible",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Rosewood": {
+    "brand_name": "Rosewood",
+    "product_count": 11,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.8
+    }
+  },
+  "Naturo": {
+    "brand_name": "Naturo",
+    "product_count": 6,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.55,
+      "max": 10.0
+    }
+  },
+  "Naw": {
+    "brand_name": "Naw",
+    "product_count": 4,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 5.0
+    }
+  },
+  "Peckish": {
+    "brand_name": "Peckish",
+    "product_count": 4,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 5.0
+    }
+  },
+  "Webbox": {
+    "brand_name": "Webbox",
+    "product_count": 18,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 6.5
+    }
+  },
+  "Dreamies": {
+    "brand_name": "Dreamies",
+    "product_count": 18,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 3.0
+    }
+  },
+  "Tasties": {
+    "brand_name": "Tasties",
+    "product_count": 5,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Smart": {
+    "brand_name": "Smart",
+    "product_count": 2,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 5.5
+    }
+  },
+  "Misfits": {
+    "brand_name": "Misfits",
+    "product_count": 5,
+    "categories": [
+      "Protein Shop",
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.2
+    }
+  },
+  "Whiskas": {
+    "brand_name": "Whiskas",
+    "product_count": 32,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 24.0
+    }
+  },
+  "Bonio": {
+    "brand_name": "Bonio",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 2.2
+    }
+  },
+  "Purina": {
+    "brand_name": "Purina",
+    "product_count": 9,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 4.8,
+      "max": 18.7
+    }
+  },
+  "Toplife": {
+    "brand_name": "Toplife",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1
+    }
+  },
+  "Encore": {
+    "brand_name": "Encore",
+    "product_count": 12,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 7.8
+    }
+  },
+  "Forthglade": {
+    "brand_name": "Forthglade",
+    "product_count": 6,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 12.0
+    }
+  },
+  "Bonkers": {
+    "brand_name": "Bonkers",
+    "product_count": 6,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 3.4
+    }
+  },
+  "Hollings": {
+    "brand_name": "Hollings",
+    "product_count": 5,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 4.25
+    }
+  },
+  "Burgess": {
+    "brand_name": "Burgess",
+    "product_count": 3,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 4.7
+    }
+  },
+  "Felight": {
+    "brand_name": "Felight",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Simply": {
+    "brand_name": "Simply",
+    "product_count": 3,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.5
+    }
+  },
+  "Raaw": {
+    "brand_name": "Raaw",
+    "product_count": 5,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.6,
+      "max": 6.1
+    }
+  },
+  "Scrumbles": {
+    "brand_name": "Scrumbles",
+    "product_count": 6,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 2.6,
+      "max": 12.0
+    }
+  },
+  "Aquarian": {
+    "brand_name": "Aquarian",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Tetra": {
+    "brand_name": "Tetra",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Bob": {
+    "brand_name": "Bob",
+    "product_count": 5,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 14.0
+    }
+  },
+  "Freshpet": {
+    "brand_name": "Freshpet",
+    "product_count": 4,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 6.5,
+      "max": 10.0
+    }
+  },
+  "Seriously": {
+    "brand_name": "Seriously",
+    "product_count": 4,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 4.99,
+      "max": 10.99
+    }
+  },
+  "Flexi": {
+    "brand_name": "Flexi",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0
+    }
+  },
+  "Petface": {
+    "brand_name": "Petface",
+    "product_count": 1,
+    "categories": [
+      "Pet Shop"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Lindahls": {
+    "brand_name": "Lindahls",
+    "product_count": 5,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.5
+    }
+  },
+  "Trek": {
+    "brand_name": "Trek",
+    "product_count": 3,
+    "categories": [
+      "Vegan",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.12,
+      "max": 2.5
+    }
+  },
+  "Tribe": {
+    "brand_name": "Tribe",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Muller": {
+    "brand_name": "Muller",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.0
+    }
+  },
+  "Adonis": {
+    "brand_name": "Adonis",
+    "product_count": 4,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.2
+    }
+  },
+  "Biotiful": {
+    "brand_name": "Biotiful",
+    "product_count": 2,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Grenade": {
+    "brand_name": "Grenade",
+    "product_count": 5,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 10.0
+    }
+  },
+  "Warrior": {
+    "brand_name": "Warrior",
+    "product_count": 5,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.75
+    }
+  },
+  "Myprotein": {
+    "brand_name": "Myprotein",
+    "product_count": 10,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 19.0
+    }
+  },
+  "Applied": {
+    "brand_name": "Applied",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0
+    }
+  },
+  "Fulfil": {
+    "brand_name": "Fulfil",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.9
+    }
+  },
+  "Nature": {
+    "brand_name": "Nature",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Two": {
+    "brand_name": "Two",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Graze": {
+    "brand_name": "Graze",
+    "product_count": 4,
+    "categories": [
+      "Vegan",
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Kind": {
+    "brand_name": "Kind",
+    "product_count": 2,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.5
+    }
+  },
+  "Arla": {
+    "brand_name": "Arla",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 1.45,
+      "max": 1.45
+    }
+  },
+  "Bounce": {
+    "brand_name": "Bounce",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 2.1
+    }
+  },
+  "Linwoods": {
+    "brand_name": "Linwoods",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Barebells": {
+    "brand_name": "Barebells",
+    "product_count": 4,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.7,
+      "max": 2.7
+    }
+  },
+  "Naturya": {
+    "brand_name": "Naturya",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 16.0,
+      "max": 16.0
+    }
+  },
+  "Phd": {
+    "brand_name": "Phd",
+    "product_count": 3,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Protein": {
+    "brand_name": "Protein",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Ufit": {
+    "brand_name": "Ufit",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Emmi": {
+    "brand_name": "Emmi",
+    "product_count": 1,
+    "categories": [
+      "Protein Shop"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 3.25
+    }
+  },
+  "Mitchum": {
+    "brand_name": "Mitchum",
+    "product_count": 6,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Alberto": {
+    "brand_name": "Alberto",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1
+    }
+  },
+  "Radox": {
+    "brand_name": "Radox",
+    "product_count": 7,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.75
+    }
+  },
+  "Always": {
+    "brand_name": "Always",
+    "product_count": 12,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 5.0
+    }
+  },
+  "Dove": {
+    "brand_name": "Dove",
+    "product_count": 16,
+    "categories": [
+      "Toiletries Beauty",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 10.0
+    }
+  },
+  "Carex": {
+    "brand_name": "Carex",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Head": {
+    "brand_name": "Head",
+    "product_count": 17,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 6.0
+    }
+  },
+  "Sanex": {
+    "brand_name": "Sanex",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.0
+    }
+  },
+  "Sensodyne": {
+    "brand_name": "Sensodyne",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 5.0
+    }
+  },
+  "Bodyform": {
+    "brand_name": "Bodyform",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.5
+    }
+  },
+  "Imperial": {
+    "brand_name": "Imperial",
+    "product_count": 12,
+    "categories": [
+      "World Foods",
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 5.0
+    }
+  },
+  "Pears": {
+    "brand_name": "Pears",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1
+    }
+  },
+  "Aussie": {
+    "brand_name": "Aussie",
+    "product_count": 18,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 6.0
+    }
+  },
+  "Herbal": {
+    "brand_name": "Herbal",
+    "product_count": 9,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.3,
+      "max": 2.3
+    }
+  },
+  "Colgate": {
+    "brand_name": "Colgate",
+    "product_count": 8,
+    "categories": [
+      "Toiletries Beauty",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 5.0
+    }
+  },
+  "Lynx": {
+    "brand_name": "Lynx",
+    "product_count": 10,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.95,
+      "max": 3.95
+    }
+  },
+  "Listerine": {
+    "brand_name": "Listerine",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.6,
+      "max": 2.6
+    }
+  },
+  "Venus": {
+    "brand_name": "Venus",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 19.2
+    }
+  },
+  "Ineos": {
+    "brand_name": "Ineos",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Corsodyl": {
+    "brand_name": "Corsodyl",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 3.5
+    }
+  },
+  "Garnier": {
+    "brand_name": "Garnier",
+    "product_count": 31,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.35,
+      "max": 10.0
+    }
+  },
+  "Gillette": {
+    "brand_name": "Gillette",
+    "product_count": 20,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 27.0
+    }
+  },
+  "Moss": {
+    "brand_name": "Moss",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Sure": {
+    "brand_name": "Sure",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.5
+    }
+  },
+  "Nivea": {
+    "brand_name": "Nivea",
+    "product_count": 13,
+    "categories": [
+      "Toiletries Beauty",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 11.0
+    }
+  },
+  "Baylis": {
+    "brand_name": "Baylis",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 1.85
+    }
+  },
+  "Tampax": {
+    "brand_name": "Tampax",
+    "product_count": 5,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.4,
+      "max": 3.4
+    }
+  },
+  "Brut": {
+    "brand_name": "Brut",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.0
+    }
+  },
+  "Simple": {
+    "brand_name": "Simple",
+    "product_count": 8,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 6.66
+    }
+  },
+  "Silvikrin": {
+    "brand_name": "Silvikrin",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Matey": {
+    "brand_name": "Matey",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Batiste": {
+    "brand_name": "Batiste",
+    "product_count": 8,
+    "categories": [
+      "Toiletries Beauty",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 4.5
+    }
+  },
+  "Ogx": {
+    "brand_name": "Ogx",
+    "product_count": 14,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 9.0
+    }
+  },
+  "Vo5": {
+    "brand_name": "Vo5",
+    "product_count": 17,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Bulldog": {
+    "brand_name": "Bulldog",
+    "product_count": 6,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.3,
+      "max": 4.4
+    }
+  },
+  "Wella": {
+    "brand_name": "Wella",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "John": {
+    "brand_name": "John",
+    "product_count": 21,
+    "categories": [
+      "Toiletries Beauty",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 10.0
+    }
+  },
+  "Pantene": {
+    "brand_name": "Pantene",
+    "product_count": 6,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.5
+    }
+  },
+  "Monday": {
+    "brand_name": "Monday",
+    "product_count": 9,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 5.0
+    }
+  },
+  "Provoke": {
+    "brand_name": "Provoke",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Rock": {
+    "brand_name": "Rock",
+    "product_count": 5,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 3.5
+    }
+  },
+  "Tena": {
+    "brand_name": "Tena",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Nutrisse": {
+    "brand_name": "Nutrisse",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Clairol": {
+    "brand_name": "Clairol",
+    "product_count": 22,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Elnett": {
+    "brand_name": "Elnett",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Olay": {
+    "brand_name": "Olay",
+    "product_count": 10,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 19.0
+    }
+  },
+  "Schwarzkopf": {
+    "brand_name": "Schwarzkopf",
+    "product_count": 17,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 8.0
+    }
+  },
+  "Clearasil": {
+    "brand_name": "Clearasil",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Veet": {
+    "brand_name": "Veet",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.35,
+      "max": 6.37
+    }
+  },
+  "So": {
+    "brand_name": "So",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "L'": {
+    "brand_name": "L'",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Bondi": {
+    "brand_name": "Bondi",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 6.7,
+      "max": 7.4
+    }
+  },
+  "Wilkinson": {
+    "brand_name": "Wilkinson",
+    "product_count": 4,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 18.0
+    }
+  },
+  "Excellence": {
+    "brand_name": "Excellence",
+    "product_count": 5,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 11.0
+    }
+  },
+  "Ambre": {
+    "brand_name": "Ambre",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 7.0
+    }
+  },
+  "Jungle": {
+    "brand_name": "Jungle",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 6.4,
+      "max": 6.4
+    }
+  },
+  "Daily": {
+    "brand_name": "Daily",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.75,
+      "max": 3.75
+    }
+  },
+  "Rimmel": {
+    "brand_name": "Rimmel",
+    "product_count": 12,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 9.0
+    }
+  },
+  "Casting": {
+    "brand_name": "Casting",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Neutrogena": {
+    "brand_name": "Neutrogena",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Weleda": {
+    "brand_name": "Weleda",
+    "product_count": 5,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.85,
+      "max": 10.0
+    }
+  },
+  "Skin": {
+    "brand_name": "Skin",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 5.0
+    }
+  },
+  "Gillettelabs": {
+    "brand_name": "Gillettelabs",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Wild": {
+    "brand_name": "Wild",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 9.25,
+      "max": 9.25
+    }
+  },
+  "Hero": {
+    "brand_name": "Hero",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 6.4,
+      "max": 6.4
+    }
+  },
+  "Got2b": {
+    "brand_name": "Got2b",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Philips": {
+    "brand_name": "Philips",
+    "product_count": 2,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 23.3,
+      "max": 33.0
+    }
+  },
+  "Braun": {
+    "brand_name": "Braun",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 23.0,
+      "max": 23.0
+    }
+  },
+  "Ultimate": {
+    "brand_name": "Ultimate",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Nip": {
+    "brand_name": "Nip",
+    "product_count": 3,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 6.5,
+      "max": 7.5
+    }
+  },
+  "Body": {
+    "brand_name": "Body",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 3.75,
+      "max": 3.75
+    }
+  },
+  "Ors": {
+    "brand_name": "Ors",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 4.1,
+      "max": 5.0
+    }
+  },
+  "Oral": {
+    "brand_name": "Oral",
+    "product_count": 1,
+    "categories": [
+      "Toiletries Beauty"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Ollie": {
+    "brand_name": "Ollie",
+    "product_count": 15,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 25.0
+    }
+  },
+  "Redex": {
+    "brand_name": "Redex",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 9.0
+    }
+  },
+  "Apple": {
+    "brand_name": "Apple",
+    "product_count": 4,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 170.0,
+      "max": 440.0
+    }
+  },
+  "Contemporary": {
+    "brand_name": "Contemporary",
+    "product_count": 6,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.5
+    }
+  },
+  "Traditional": {
+    "brand_name": "Traditional",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 10.0
+    }
+  },
+  "Boofle": {
+    "brand_name": "Boofle",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 4.0
+    }
+  },
+  "I": {
+    "brand_name": "I",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Little": {
+    "brand_name": "Little",
+    "product_count": 8,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 6.5
+    }
+  },
+  "Love": {
+    "brand_name": "Love",
+    "product_count": 3,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 0.5,
+      "max": 1.65
+    }
+  },
+  "Fizz": {
+    "brand_name": "Fizz",
+    "product_count": 4,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 10.0
+    }
+  },
+  "Money": {
+    "brand_name": "Money",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Paladone": {
+    "brand_name": "Paladone",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Rms": {
+    "brand_name": "Rms",
+    "product_count": 9,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 10.0
+    }
+  },
+  "Professor": {
+    "brand_name": "Professor",
+    "product_count": 10,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 10.0
+    }
+  },
+  "Blue": {
+    "brand_name": "Blue",
+    "product_count": 14,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 0.95,
+      "max": 6.0
+    }
+  },
+  "Grid": {
+    "brand_name": "Grid",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "10x": {
+    "brand_name": "10x",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Fathers": {
+    "brand_name": "Fathers",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Neutrals": {
+    "brand_name": "Neutrals",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "White": {
+    "brand_name": "White",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 6.0
+    }
+  },
+  "Lego": {
+    "brand_name": "Lego",
+    "product_count": 44,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 90.0
+    }
+  },
+  "Barbie": {
+    "brand_name": "Barbie",
+    "product_count": 4,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 28.0
+    }
+  },
+  "Cash": {
+    "brand_name": "Cash",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Run": {
+    "brand_name": "Run",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Funko": {
+    "brand_name": "Funko",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Muslins": {
+    "brand_name": "Muslins",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Moana": {
+    "brand_name": "Moana",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 23.0,
+      "max": 23.0
+    }
+  },
+  "Birthday": {
+    "brand_name": "Birthday",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 2.0
+    }
+  },
+  "Disney": {
+    "brand_name": "Disney",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 23.0
+    }
+  },
+  "Best": {
+    "brand_name": "Best",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Royal": {
+    "brand_name": "Royal",
+    "product_count": 17,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 13.6
+    }
+  },
+  "Tv": {
+    "brand_name": "Tv",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.82,
+      "max": 0.82
+    }
+  },
+  "Cream": {
+    "brand_name": "Cream",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Triplewax": {
+    "brand_name": "Triplewax",
+    "product_count": 8,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 5.5
+    }
+  },
+  "Generic": {
+    "brand_name": "Generic",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "National": {
+    "brand_name": "National",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Spiral": {
+    "brand_name": "Spiral",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Muticolour": {
+    "brand_name": "Muticolour",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.75
+    }
+  },
+  "Total": {
+    "brand_name": "Total",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.9,
+      "max": 2.9
+    }
+  },
+  "Party": {
+    "brand_name": "Party",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.0
+    }
+  },
+  "Football": {
+    "brand_name": "Football",
+    "product_count": 4,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "One": {
+    "brand_name": "One",
+    "product_count": 16,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 7.0
+    }
+  },
+  "Megatastic": {
+    "brand_name": "Megatastic",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Club": {
+    "brand_name": "Club",
+    "product_count": 17,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 12.0
+    }
+  },
+  "Spot": {
+    "brand_name": "Spot",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Minecraft": {
+    "brand_name": "Minecraft",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 4.0
+    }
+  },
+  "Take": {
+    "brand_name": "Take",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 2.6
+    }
+  },
+  "Unicorn": {
+    "brand_name": "Unicorn",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Reusable": {
+    "brand_name": "Reusable",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Squeezamals": {
+    "brand_name": "Squeezamals",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Hello": {
+    "brand_name": "Hello",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 6.0
+    }
+  },
+  "Radio": {
+    "brand_name": "Radio",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.95,
+      "max": 4.95
+    }
+  },
+  "Mixx": {
+    "brand_name": "Mixx",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 23.0
+    }
+  },
+  "Donate": {
+    "brand_name": "Donate",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 10.0
+    }
+  },
+  "Balloon": {
+    "brand_name": "Balloon",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.0
+    }
+  },
+  "Treat": {
+    "brand_name": "Treat",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.5
+    }
+  },
+  "Bonds": {
+    "brand_name": "Bonds",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Closer": {
+    "brand_name": "Closer",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.99,
+      "max": 1.99
+    }
+  },
+  "Sylvanian": {
+    "brand_name": "Sylvanian",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Dinosaur": {
+    "brand_name": "Dinosaur",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Carplan": {
+    "brand_name": "Carplan",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 6.0
+    }
+  },
+  "Aphmau": {
+    "brand_name": "Aphmau",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Pokemon": {
+    "brand_name": "Pokemon",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 40.0
+    }
+  },
+  "Uk": {
+    "brand_name": "Uk",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Amscan": {
+    "brand_name": "Amscan",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Triple": {
+    "brand_name": "Triple",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Modelling": {
+    "brand_name": "Modelling",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Peoples": {
+    "brand_name": "Peoples",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Hot": {
+    "brand_name": "Hot",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.5,
+      "max": 14.0
+    }
+  },
+  "Multicoloured": {
+    "brand_name": "Multicoloured",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Super": {
+    "brand_name": "Super",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 2.6
+    }
+  },
+  "Mattel": {
+    "brand_name": "Mattel",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 12.0
+    }
+  },
+  "Pinata": {
+    "brand_name": "Pinata",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Ty": {
+    "brand_name": "Ty",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Metallic": {
+    "brand_name": "Metallic",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Curious": {
+    "brand_name": "Curious",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Joie": {
+    "brand_name": "Joie",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Illooms": {
+    "brand_name": "Illooms",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 10.0
+    }
+  },
+  "Dickie": {
+    "brand_name": "Dickie",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 9.0
+    }
+  },
+  "Adopt": {
+    "brand_name": "Adopt",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Just": {
+    "brand_name": "Just",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Carlube": {
+    "brand_name": "Carlube",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 13.5,
+      "max": 22.5
+    }
+  },
+  "Demon": {
+    "brand_name": "Demon",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Niece": {
+    "brand_name": "Niece",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.59,
+      "max": 0.59
+    }
+  },
+  "30": {
+    "brand_name": "30",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Sticki": {
+    "brand_name": "Sticki",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Jujutsu": {
+    "brand_name": "Jujutsu",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Happy": {
+    "brand_name": "Happy",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0
+    }
+  },
+  "Bluey": {
+    "brand_name": "Bluey",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 12.0
+    }
+  },
+  "Official": {
+    "brand_name": "Official",
+    "product_count": 5,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 0.9,
+      "max": 14.99
+    }
+  },
+  "Hti": {
+    "brand_name": "Hti",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Magic": {
+    "brand_name": "Magic",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Lankybox": {
+    "brand_name": "Lankybox",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Nephew": {
+    "brand_name": "Nephew",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "In": {
+    "brand_name": "In",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 12.99,
+      "max": 12.99
+    }
+  },
+  "Topmodel": {
+    "brand_name": "Topmodel",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 6.0
+    }
+  },
+  "Mars": {
+    "brand_name": "Mars",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Peter": {
+    "brand_name": "Peter",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Decorata": {
+    "brand_name": "Decorata",
+    "product_count": 7,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 8.0
+    }
+  },
+  "Round": {
+    "brand_name": "Round",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 25.0,
+      "max": 25.0
+    }
+  },
+  "Premier": {
+    "brand_name": "Premier",
+    "product_count": 8,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.99,
+      "max": 14.99
+    }
+  },
+  "Teamsterz": {
+    "brand_name": "Teamsterz",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 12.0
+    }
+  },
+  "Cat": {
+    "brand_name": "Cat",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0
+    }
+  },
+  "Nexcube": {
+    "brand_name": "Nexcube",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 8.0
+    }
+  },
+  "Tri": {
+    "brand_name": "Tri",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 7.0
+    }
+  },
+  "On": {
+    "brand_name": "On",
+    "product_count": 3,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.75
+    }
+  },
+  "Winnie": {
+    "brand_name": "Winnie",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Tonka": {
+    "brand_name": "Tonka",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0
+    }
+  },
+  "Match": {
+    "brand_name": "Match",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 8.99,
+      "max": 14.99
+    }
+  },
+  "Fire": {
+    "brand_name": "Fire",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Animal": {
+    "brand_name": "Animal",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "X": {
+    "brand_name": "X",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Character": {
+    "brand_name": "Character",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Play": {
+    "brand_name": "Play",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Littlest": {
+    "brand_name": "Littlest",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Monster": {
+    "brand_name": "Monster",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Topps": {
+    "brand_name": "Topps",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 5.0
+    }
+  },
+  "Stringalings": {
+    "brand_name": "Stringalings",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Crystalverse": {
+    "brand_name": "Crystalverse",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Cocomelon": {
+    "brand_name": "Cocomelon",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0
+    }
+  },
+  "Personalised": {
+    "brand_name": "Personalised",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Angel": {
+    "brand_name": "Angel",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Gift": {
+    "brand_name": "Gift",
+    "product_count": 2,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 8.0
+    }
+  },
+  "Cars": {
+    "brand_name": "Cars",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Boley": {
+    "brand_name": "Boley",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Pop": {
+    "brand_name": "Pop",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 33.0,
+      "max": 33.0
+    }
+  },
+  "Inkredibles": {
+    "brand_name": "Inkredibles",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Beams": {
+    "brand_name": "Beams",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Energizer": {
+    "brand_name": "Energizer",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Simba": {
+    "brand_name": "Simba",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Fisher": {
+    "brand_name": "Fisher",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 18.0,
+      "max": 18.0
+    }
+  },
+  "Monsterjam": {
+    "brand_name": "Monsterjam",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Stitch": {
+    "brand_name": "Stitch",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Treasure": {
+    "brand_name": "Treasure",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Shimmer": {
+    "brand_name": "Shimmer",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0
+    }
+  },
+  "Spinmaster": {
+    "brand_name": "Spinmaster",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 35.0,
+      "max": 35.0
+    }
+  },
+  "Salon": {
+    "brand_name": "Salon",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 32.0,
+      "max": 32.0
+    }
+  },
+  "Teenage": {
+    "brand_name": "Teenage",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Star": {
+    "brand_name": "Star",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 3.3,
+      "max": 12.0
+    }
+  },
+  "Steffi": {
+    "brand_name": "Steffi",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Bandai": {
+    "brand_name": "Bandai",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Hotwheels": {
+    "brand_name": "Hotwheels",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 40.0,
+      "max": 40.0
+    }
+  },
+  "Xbox": {
+    "brand_name": "Xbox",
+    "product_count": 1,
+    "categories": [
+      "Toys Entertainment"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Vfc": {
+    "brand_name": "Vfc",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Vivera": {
+    "brand_name": "Vivera",
+    "product_count": 2,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.65,
+      "max": 3.5
+    }
+  },
+  "Hippeas": {
+    "brand_name": "Hippeas",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Berocca": {
+    "brand_name": "Berocca",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0
+    }
+  },
+  "Flora": {
+    "brand_name": "Flora",
+    "product_count": 2,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 3.0
+    }
+  },
+  "Original": {
+    "brand_name": "Original",
+    "product_count": 8,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 3.75
+    }
+  },
+  "Mccain": {
+    "brand_name": "Mccain",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.6,
+      "max": 3.6
+    }
+  },
+  "Heinz": {
+    "brand_name": "Heinz",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Strong": {
+    "brand_name": "Strong",
+    "product_count": 3,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.3,
+      "max": 3.65
+    }
+  },
+  "Kingfisher": {
+    "brand_name": "Kingfisher",
+    "product_count": 3,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 1.15
+    }
+  },
+  "Vitis": {
+    "brand_name": "Vitis",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 7.5,
+      "max": 7.5
+    }
+  },
+  "Koko": {
+    "brand_name": "Koko",
+    "product_count": 3,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.65,
+      "max": 1.8
+    }
+  },
+  "Ready": {
+    "brand_name": "Ready",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.15,
+      "max": 2.15
+    }
+  },
+  "Linda": {
+    "brand_name": "Linda",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Itsu": {
+    "brand_name": "Itsu",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 1.85
+    }
+  },
+  "Lotus": {
+    "brand_name": "Lotus",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.19,
+      "max": 3.19
+    }
+  },
+  "Merchant": {
+    "brand_name": "Merchant",
+    "product_count": 4,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 3.15
+    }
+  },
+  "Deliciously": {
+    "brand_name": "Deliciously",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Mornflake": {
+    "brand_name": "Mornflake",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.65,
+      "max": 2.65
+    }
+  },
+  "Lee": {
+    "brand_name": "Lee",
+    "product_count": 15,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 3.0
+    }
+  },
+  "Stoneleigh": {
+    "brand_name": "Stoneleigh",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 10.25,
+      "max": 10.25
+    }
+  },
+  "Levi": {
+    "brand_name": "Levi",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 2.2
+    }
+  },
+  "Marmite": {
+    "brand_name": "Marmite",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Frylight": {
+    "brand_name": "Frylight",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 2.75
+    }
+  },
+  "Dairylea": {
+    "brand_name": "Dairylea",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Loma": {
+    "brand_name": "Loma",
+    "product_count": 6,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 1.49,
+      "max": 2.95
+    }
+  },
+  "Gu": {
+    "brand_name": "Gu",
+    "product_count": 2,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 3.95
+    }
+  },
+  "Louis": {
+    "brand_name": "Louis",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 6.5,
+      "max": 6.5
+    }
+  },
+  "Sunrise": {
+    "brand_name": "Sunrise",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Champagne": {
+    "brand_name": "Champagne",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 28.0,
+      "max": 28.0
+    }
+  },
+  "Dina": {
+    "brand_name": "Dina",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 1.0
+    }
+  },
+  "Science": {
+    "brand_name": "Science",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0
+    }
+  },
+  "Moet": {
+    "brand_name": "Moet",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 64.0,
+      "max": 64.0
+    }
+  },
+  "Tivall": {
+    "brand_name": "Tivall",
+    "product_count": 2,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 3.69,
+      "max": 3.8
+    }
+  },
+  "Vitabiotics": {
+    "brand_name": "Vitabiotics",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0
+    }
+  },
+  "Ayumi": {
+    "brand_name": "Ayumi",
+    "product_count": 5,
+    "categories": [
+      "World Foods",
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 5.0
+    }
+  },
+  "Philadelphia": {
+    "brand_name": "Philadelphia",
+    "product_count": 1,
+    "categories": [
+      "Vegan"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 2.75
+    }
+  },
+  "Old": {
+    "brand_name": "Old",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.4,
+      "max": 0.4
+    }
+  },
+  "Humza": {
+    "brand_name": "Humza",
+    "product_count": 8,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.8,
+      "max": 4.7
+    }
+  },
+  "Ko": {
+    "brand_name": "Ko",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.6,
+      "max": 0.6
+    }
+  },
+  "Cofresh": {
+    "brand_name": "Cofresh",
+    "product_count": 16,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.75
+    }
+  },
+  "Maggi": {
+    "brand_name": "Maggi",
+    "product_count": 10,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 3.5
+    }
+  },
+  "Tymbark": {
+    "brand_name": "Tymbark",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.35,
+      "max": 2.55
+    }
+  },
+  "Goplana": {
+    "brand_name": "Goplana",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.45,
+      "max": 2.5
+    }
+  },
+  "Nongshim": {
+    "brand_name": "Nongshim",
+    "product_count": 11,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 4.25
+    }
+  },
+  "Shana": {
+    "brand_name": "Shana",
+    "product_count": 17,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.7
+    }
+  },
+  "Malt": {
+    "brand_name": "Malt",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Samyang": {
+    "brand_name": "Samyang",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 5.0
+    }
+  },
+  "Samai": {
+    "brand_name": "Samai",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 0.65
+    }
+  },
+  "Mogu": {
+    "brand_name": "Mogu",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.3
+    }
+  },
+  "Ting": {
+    "brand_name": "Ting",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.4,
+      "max": 0.4
+    }
+  },
+  "Bolands": {
+    "brand_name": "Bolands",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.6
+    }
+  },
+  "Mlekpol": {
+    "brand_name": "Mlekpol",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.15
+    }
+  },
+  "Pakeeza": {
+    "brand_name": "Pakeeza",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 3.25
+    }
+  },
+  "Nissin": {
+    "brand_name": "Nissin",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 1.2
+    }
+  },
+  "Regal": {
+    "brand_name": "Regal",
+    "product_count": 18,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 3.15
+    }
+  },
+  "Peppadew": {
+    "brand_name": "Peppadew",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Master": {
+    "brand_name": "Master",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.05
+    }
+  },
+  "Al": {
+    "brand_name": "Al",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 5.5
+    }
+  },
+  "Shalimar": {
+    "brand_name": "Shalimar",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 1.5
+    }
+  },
+  "Lancashire": {
+    "brand_name": "Lancashire",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 2.85
+    }
+  },
+  "Supermalt": {
+    "brand_name": "Supermalt",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 7.5
+    }
+  },
+  "Tahira": {
+    "brand_name": "Tahira",
+    "product_count": 7,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 5.25
+    }
+  },
+  "East": {
+    "brand_name": "East",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 21.0
+    }
+  },
+  "Kohinoor": {
+    "brand_name": "Kohinoor",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 17.0
+    }
+  },
+  "Wedel": {
+    "brand_name": "Wedel",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 4.5
+    }
+  },
+  "Cheetos": {
+    "brand_name": "Cheetos",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Ashoka": {
+    "brand_name": "Ashoka",
+    "product_count": 12,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.65,
+      "max": 4.5
+    }
+  },
+  "Niru": {
+    "brand_name": "Niru",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 1.3
+    }
+  },
+  "Najma": {
+    "brand_name": "Najma",
+    "product_count": 15,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 3.8
+    }
+  },
+  "Zozole": {
+    "brand_name": "Zozole",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.55,
+      "max": 0.55
+    }
+  },
+  "Lowicz": {
+    "brand_name": "Lowicz",
+    "product_count": 7,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.99,
+      "max": 2.2
+    }
+  },
+  "Milo": {
+    "brand_name": "Milo",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 5.95
+    }
+  },
+  "Bibigo": {
+    "brand_name": "Bibigo",
+    "product_count": 12,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 3.3
+    }
+  },
+  "Osem": {
+    "brand_name": "Osem",
+    "product_count": 10,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 3.19
+    }
+  },
+  "Aaila": {
+    "brand_name": "Aaila",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 3.25
+    }
+  },
+  "Aalif": {
+    "brand_name": "Aalif",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Sokolow": {
+    "brand_name": "Sokolow",
+    "product_count": 11,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 5.35
+    }
+  },
+  "Ultimalt": {
+    "brand_name": "Ultimalt",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Mlekovita": {
+    "brand_name": "Mlekovita",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.65,
+      "max": 5.0
+    }
+  },
+  "Takul": {
+    "brand_name": "Takul",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 3.0
+    }
+  },
+  "Fudco": {
+    "brand_name": "Fudco",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.2,
+      "max": 4.0
+    }
+  },
+  "Dabur": {
+    "brand_name": "Dabur",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Isla": {
+    "brand_name": "Isla",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 6.0
+    }
+  },
+  "Laila": {
+    "brand_name": "Laila",
+    "product_count": 20,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.9,
+      "max": 16.0
+    }
+  },
+  "Crucials": {
+    "brand_name": "Crucials",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Ka": {
+    "brand_name": "Ka",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 1.94
+    }
+  },
+  "Krakus": {
+    "brand_name": "Krakus",
+    "product_count": 10,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 5.0
+    }
+  },
+  "Mai": {
+    "brand_name": "Mai",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Rymut": {
+    "brand_name": "Rymut",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Jutrzenka": {
+    "brand_name": "Jutrzenka",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.2,
+      "max": 1.1
+    }
+  },
+  "Gusto": {
+    "brand_name": "Gusto",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Korea": {
+    "brand_name": "Korea",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Demae": {
+    "brand_name": "Demae",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Tago": {
+    "brand_name": "Tago",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.6
+    }
+  },
+  "Ding": {
+    "brand_name": "Ding",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Indomie": {
+    "brand_name": "Indomie",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Cocon": {
+    "brand_name": "Cocon",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.95,
+      "max": 1.95
+    }
+  },
+  "Boromir": {
+    "brand_name": "Boromir",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.55,
+      "max": 0.55
+    }
+  },
+  "Grace": {
+    "brand_name": "Grace",
+    "product_count": 17,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 5.0
+    }
+  },
+  "Dek": {
+    "brand_name": "Dek",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 2.5
+    }
+  },
+  "Shirley": {
+    "brand_name": "Shirley",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.7,
+      "max": 0.7
+    }
+  },
+  "Crown": {
+    "brand_name": "Crown",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 7.5
+    }
+  },
+  "Magnum": {
+    "brand_name": "Magnum",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.3,
+      "max": 4.3
+    }
+  },
+  "Excelsior": {
+    "brand_name": "Excelsior",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Muszynianka": {
+    "brand_name": "Muszynianka",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Hellena": {
+    "brand_name": "Hellena",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 0.8
+    }
+  },
+  "Tropical": {
+    "brand_name": "Tropical",
+    "product_count": 15,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 12.5
+    }
+  },
+  "Carnival": {
+    "brand_name": "Carnival",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.7,
+      "max": 1.7
+    }
+  },
+  "Skawa": {
+    "brand_name": "Skawa",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 0.85
+    }
+  },
+  "Perla": {
+    "brand_name": "Perla",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Rakusens": {
+    "brand_name": "Rakusens",
+    "product_count": 11,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.6
+    }
+  },
+  "Bigga": {
+    "brand_name": "Bigga",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Cheburek": {
+    "brand_name": "Cheburek",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Chaps": {
+    "brand_name": "Chaps",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Polish": {
+    "brand_name": "Polish",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 4.0
+    }
+  },
+  "Captain": {
+    "brand_name": "Captain",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Jahan": {
+    "brand_name": "Jahan",
+    "product_count": 8,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 4.95
+    }
+  },
+  "Thai": {
+    "brand_name": "Thai",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 2.5
+    }
+  },
+  "Oshee": {
+    "brand_name": "Oshee",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.6,
+      "max": 1.4
+    }
+  },
+  "Eugenia": {
+    "brand_name": "Eugenia",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.75,
+      "max": 3.75
+    }
+  },
+  "Honey": {
+    "brand_name": "Honey",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.75,
+      "max": 4.75
+    }
+  },
+  "Oh": {
+    "brand_name": "Oh",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Encona": {
+    "brand_name": "Encona",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.75
+    }
+  },
+  "Tao": {
+    "brand_name": "Tao",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.1,
+      "max": 2.75
+    }
+  },
+  "Lotte": {
+    "brand_name": "Lotte",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 3.85
+    }
+  },
+  "Ma": {
+    "brand_name": "Ma",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Bebeto": {
+    "brand_name": "Bebeto",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.5,
+      "max": 2.0
+    }
+  },
+  "West": {
+    "brand_name": "West",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Ghana": {
+    "brand_name": "Ghana",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.3,
+      "max": 3.3
+    }
+  },
+  "Farm": {
+    "brand_name": "Farm",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 1.9
+    }
+  },
+  "Roshen": {
+    "brand_name": "Roshen",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 1.8
+    }
+  },
+  "Taj": {
+    "brand_name": "Taj",
+    "product_count": 8,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 3.5
+    }
+  },
+  "Koka": {
+    "brand_name": "Koka",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Iwisa": {
+    "brand_name": "Iwisa",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Pillsbury": {
+    "brand_name": "Pillsbury",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 16.0,
+      "max": 16.0
+    }
+  },
+  "Aleyna": {
+    "brand_name": "Aleyna",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.3
+    }
+  },
+  "Tiger": {
+    "brand_name": "Tiger",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 3.0
+    }
+  },
+  "Dragon": {
+    "brand_name": "Dragon",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Berlinki": {
+    "brand_name": "Berlinki",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.6
+    }
+  },
+  "Gilberts": {
+    "brand_name": "Gilberts",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.65,
+      "max": 6.25
+    }
+  },
+  "Strawberry": {
+    "brand_name": "Strawberry",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Mcdonnells": {
+    "brand_name": "Mcdonnells",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.4
+    }
+  },
+  "Kedem": {
+    "brand_name": "Kedem",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Elite": {
+    "brand_name": "Elite",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.4,
+      "max": 3.9
+    }
+  },
+  "Telma": {
+    "brand_name": "Telma",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 3.9
+    }
+  },
+  "Tusker": {
+    "brand_name": "Tusker",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.8,
+      "max": 2.8
+    }
+  },
+  "Manischewitz": {
+    "brand_name": "Manischewitz",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Juice": {
+    "brand_name": "Juice",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Crodo": {
+    "brand_name": "Crodo",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Bamba": {
+    "brand_name": "Bamba",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Yehuda": {
+    "brand_name": "Yehuda",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 3.75
+    }
+  },
+  "Bialy": {
+    "brand_name": "Bialy",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0
+    }
+  },
+  "Sea": {
+    "brand_name": "Sea",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 2.1
+    }
+  },
+  "Gran": {
+    "brand_name": "Gran",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.95,
+      "max": 2.95
+    }
+  },
+  "Ufc": {
+    "brand_name": "Ufc",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.79
+    }
+  },
+  "Island": {
+    "brand_name": "Island",
+    "product_count": 8,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 7.5
+    }
+  },
+  "Kikkoman": {
+    "brand_name": "Kikkoman",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Indo": {
+    "brand_name": "Indo",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.9,
+      "max": 0.9
+    }
+  },
+  "Yutaka": {
+    "brand_name": "Yutaka",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 3.15
+    }
+  },
+  "Piatnica": {
+    "brand_name": "Piatnica",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.7
+    }
+  },
+  "Spice": {
+    "brand_name": "Spice",
+    "product_count": 7,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 2.75
+    }
+  },
+  "Morliny": {
+    "brand_name": "Morliny",
+    "product_count": 13,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 4.0
+    }
+  },
+  "Acecook": {
+    "brand_name": "Acecook",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.85,
+      "max": 0.85
+    }
+  },
+  "Desi": {
+    "brand_name": "Desi",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 1.85
+    }
+  },
+  "Sesame": {
+    "brand_name": "Sesame",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.1
+    }
+  },
+  "Mackays": {
+    "brand_name": "Mackays",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Mama": {
+    "brand_name": "Mama",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.95,
+      "max": 1.1
+    }
+  },
+  "Uni": {
+    "brand_name": "Uni",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.9,
+      "max": 2.9
+    }
+  },
+  "Barakat": {
+    "brand_name": "Barakat",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Vadasz": {
+    "brand_name": "Vadasz",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Kucharek": {
+    "brand_name": "Kucharek",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.6,
+      "max": 0.9
+    }
+  },
+  "Trophy": {
+    "brand_name": "Trophy",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 12.0,
+      "max": 14.0
+    }
+  },
+  "Port": {
+    "brand_name": "Port",
+    "product_count": 6,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Shazans": {
+    "brand_name": "Shazans",
+    "product_count": 17,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.45,
+      "max": 12.6
+    }
+  },
+  "Vifon": {
+    "brand_name": "Vifon",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.69,
+      "max": 0.7
+    }
+  },
+  "Winiary": {
+    "brand_name": "Winiary",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Prymat": {
+    "brand_name": "Prymat",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.39,
+      "max": 1.2
+    }
+  },
+  "Aashirvaad": {
+    "brand_name": "Aashirvaad",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 8.0,
+      "max": 16.0
+    }
+  },
+  "Tayto": {
+    "brand_name": "Tayto",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 1.85
+    }
+  },
+  "Superchick": {
+    "brand_name": "Superchick",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 9.0,
+      "max": 9.0
+    }
+  },
+  "Nido": {
+    "brand_name": "Nido",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 13.0
+    }
+  },
+  "Melis": {
+    "brand_name": "Melis",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 2.85
+    }
+  },
+  "Juici": {
+    "brand_name": "Juici",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Lubella": {
+    "brand_name": "Lubella",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Nong": {
+    "brand_name": "Nong",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Flair": {
+    "brand_name": "Flair",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Eastern": {
+    "brand_name": "Eastern",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 6.5,
+      "max": 6.5
+    }
+  },
+  "Gosh": {
+    "brand_name": "Gosh",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.1,
+      "max": 3.1
+    }
+  },
+  "Alibi": {
+    "brand_name": "Alibi",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Daria": {
+    "brand_name": "Daria",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Moryn": {
+    "brand_name": "Moryn",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.9
+    }
+  },
+  "Kailo": {
+    "brand_name": "Kailo",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.25,
+      "max": 2.25
+    }
+  },
+  "Squid": {
+    "brand_name": "Squid",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.4,
+      "max": 2.4
+    }
+  },
+  "Chinatown": {
+    "brand_name": "Chinatown",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.95,
+      "max": 3.95
+    }
+  },
+  "Kubus": {
+    "brand_name": "Kubus",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.85
+    }
+  },
+  "Sunshine": {
+    "brand_name": "Sunshine",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Krasnystaw": {
+    "brand_name": "Krasnystaw",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Dega": {
+    "brand_name": "Dega",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Tsing": {
+    "brand_name": "Tsing",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Profi": {
+    "brand_name": "Profi",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.8,
+      "max": 0.8
+    }
+  },
+  "Wonderfarm": {
+    "brand_name": "Wonderfarm",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1
+    }
+  },
+  "Mekong": {
+    "brand_name": "Mekong",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.4,
+      "max": 2.4
+    }
+  },
+  "Dunareu": {
+    "brand_name": "Dunareu",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.9,
+      "max": 2.9
+    }
+  },
+  "Ginos": {
+    "brand_name": "Ginos",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.9,
+      "max": 2.9
+    }
+  },
+  "Mieszko": {
+    "brand_name": "Mieszko",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 1.9
+    }
+  },
+  "Caribbean": {
+    "brand_name": "Caribbean",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "Gherkins": {
+    "brand_name": "Gherkins",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Ottogi": {
+    "brand_name": "Ottogi",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.15,
+      "max": 5.0
+    }
+  },
+  "Cypressa": {
+    "brand_name": "Cypressa",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Daawat": {
+    "brand_name": "Daawat",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0
+    }
+  },
+  "Lays": {
+    "brand_name": "Lays",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.5,
+      "max": 2.5
+    }
+  },
+  "Elit": {
+    "brand_name": "Elit",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.2,
+      "max": 2.5
+    }
+  },
+  "Kvuzat": {
+    "brand_name": "Kvuzat",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.75,
+      "max": 1.75
+    }
+  },
+  "Healthy": {
+    "brand_name": "Healthy",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.25,
+      "max": 3.25
+    }
+  },
+  "Miracle": {
+    "brand_name": "Miracle",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 1.3
+    }
+  },
+  "Wawel": {
+    "brand_name": "Wawel",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "Gmf": {
+    "brand_name": "Gmf",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 5.89,
+      "max": 5.89
+    }
+  },
+  "China": {
+    "brand_name": "China",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Odlums": {
+    "brand_name": "Odlums",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.9,
+      "max": 1.9
+    }
+  },
+  "Mackerel": {
+    "brand_name": "Mackerel",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.79,
+      "max": 1.79
+    }
+  },
+  "Parle": {
+    "brand_name": "Parle",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.5,
+      "max": 0.85
+    }
+  },
+  "Kurkure": {
+    "brand_name": "Kurkure",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Olzo": {
+    "brand_name": "Olzo",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.67,
+      "max": 0.67
+    }
+  },
+  "Sun": {
+    "brand_name": "Sun",
+    "product_count": 7,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 2.75
+    }
+  },
+  "Baldwins": {
+    "brand_name": "Baldwins",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.15,
+      "max": 2.15
+    }
+  },
+  "Amino": {
+    "brand_name": "Amino",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 0.65
+    }
+  },
+  "Hell": {
+    "brand_name": "Hell",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.7,
+      "max": 0.7
+    }
+  },
+  "Ptasie": {
+    "brand_name": "Ptasie",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.7,
+      "max": 4.7
+    }
+  },
+  "Hortex": {
+    "brand_name": "Hortex",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 3.3
+    }
+  },
+  "Virtu": {
+    "brand_name": "Virtu",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.95,
+      "max": 4.0
+    }
+  },
+  "Akira": {
+    "brand_name": "Akira",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.8,
+      "max": 1.8
+    }
+  },
+  "Badshah": {
+    "brand_name": "Badshah",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.0,
+      "max": 4.0
+    }
+  },
+  "Serge": {
+    "brand_name": "Serge",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Drobimex": {
+    "brand_name": "Drobimex",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Britannia": {
+    "brand_name": "Britannia",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.6,
+      "max": 1.5
+    }
+  },
+  "Przysnacki": {
+    "brand_name": "Przysnacki",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.89,
+      "max": 1.89
+    }
+  },
+  "Graal": {
+    "brand_name": "Graal",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.45,
+      "max": 1.7
+    }
+  },
+  "Mrs": {
+    "brand_name": "Mrs",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.79,
+      "max": 3.79
+    }
+  },
+  "Shayona": {
+    "brand_name": "Shayona",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.3,
+      "max": 3.0
+    }
+  },
+  "Gama": {
+    "brand_name": "Gama",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.45,
+      "max": 1.45
+    }
+  },
+  "Sunfeast": {
+    "brand_name": "Sunfeast",
+    "product_count": 5,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.45,
+      "max": 1.5
+    }
+  },
+  "Jacobs": {
+    "brand_name": "Jacobs",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.39,
+      "max": 2.39
+    }
+  },
+  "Koikeya": {
+    "brand_name": "Koikeya",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Kinder": {
+    "brand_name": "Kinder",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.75,
+      "max": 0.75
+    }
+  },
+  "7days": {
+    "brand_name": "7days",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0
+    }
+  },
+  "Goong": {
+    "brand_name": "Goong",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.65,
+      "max": 0.65
+    }
+  },
+  "Pokka": {
+    "brand_name": "Pokka",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.2,
+      "max": 1.2
+    }
+  },
+  "Sokoliki": {
+    "brand_name": "Sokoliki",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Bang": {
+    "brand_name": "Bang",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.65,
+      "max": 1.65
+    }
+  },
+  "Gefen": {
+    "brand_name": "Gefen",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.65,
+      "max": 1.65
+    }
+  },
+  "Jaimin": {
+    "brand_name": "Jaimin",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6
+    }
+  },
+  "Lisner": {
+    "brand_name": "Lisner",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.4,
+      "max": 1.4
+    }
+  },
+  "Bikaji": {
+    "brand_name": "Bikaji",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 2.5
+    }
+  },
+  "Quice": {
+    "brand_name": "Quice",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.0,
+      "max": 1.25
+    }
+  },
+  "Almette": {
+    "brand_name": "Almette",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Dunns": {
+    "brand_name": "Dunns",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1
+    }
+  },
+  "Cedrob": {
+    "brand_name": "Cedrob",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.7,
+      "max": 3.7
+    }
+  },
+  "Ulker": {
+    "brand_name": "Ulker",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 0.55,
+      "max": 0.85
+    }
+  },
+  "Bigen": {
+    "brand_name": "Bigen",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 7.0
+    }
+  },
+  "Szubryt": {
+    "brand_name": "Szubryt",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.2,
+      "max": 3.2
+    }
+  },
+  "Liebers": {
+    "brand_name": "Liebers",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.59,
+      "max": 1.59
+    }
+  },
+  "Meiji": {
+    "brand_name": "Meiji",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.35,
+      "max": 1.35
+    }
+  },
+  "Of": {
+    "brand_name": "Of",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 7.0,
+      "max": 8.0
+    }
+  },
+  "Kenko": {
+    "brand_name": "Kenko",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.75,
+      "max": 3.75
+    }
+  },
+  "Sweet": {
+    "brand_name": "Sweet",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.5,
+      "max": 3.5
+    }
+  },
+  "Ajr": {
+    "brand_name": "Ajr",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0
+    }
+  },
+  "Cantu": {
+    "brand_name": "Cantu",
+    "product_count": 4,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 6.0,
+      "max": 7.0
+    }
+  },
+  "Noodlehead": {
+    "brand_name": "Noodlehead",
+    "product_count": 3,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.0,
+      "max": 2.5
+    }
+  },
+  "Mother": {
+    "brand_name": "Mother",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Saifco": {
+    "brand_name": "Saifco",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Palwin": {
+    "brand_name": "Palwin",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 12.2,
+      "max": 12.2
+    }
+  },
+  "Cidona": {
+    "brand_name": "Cidona",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.3,
+      "max": 2.3
+    }
+  },
+  "Warheads": {
+    "brand_name": "Warheads",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.49,
+      "max": 2.49
+    }
+  },
+  "Henna": {
+    "brand_name": "Henna",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.85,
+      "max": 1.85
+    }
+  },
+  "Greenfields": {
+    "brand_name": "Greenfields",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.25,
+      "max": 1.25
+    }
+  },
+  "Allgroo": {
+    "brand_name": "Allgroo",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.59
+    }
+  },
+  "Tuk": {
+    "brand_name": "Tuk",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Zoladkowa": {
+    "brand_name": "Zoladkowa",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0
+    }
+  },
+  "Britania": {
+    "brand_name": "Britania",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 2.75,
+      "max": 3.95
+    }
+  },
+  "Monte": {
+    "brand_name": "Monte",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.6,
+      "max": 3.6
+    }
+  },
+  "Haldirams": {
+    "brand_name": "Haldirams",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  },
+  "Hilal": {
+    "brand_name": "Hilal",
+    "product_count": 2,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.95,
+      "max": 2.75
+    }
+  },
+  "Eid": {
+    "brand_name": "Eid",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 3.0,
+      "max": 3.0
+    }
+  },
+  "Grycan": {
+    "brand_name": "Grycan",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.19,
+      "max": 4.19
+    }
+  },
+  "Barkan": {
+    "brand_name": "Barkan",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 12.5,
+      "max": 12.5
+    }
+  },
+  "Shahzada": {
+    "brand_name": "Shahzada",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 20.0,
+      "max": 20.0
+    }
+  },
+  "Madina": {
+    "brand_name": "Madina",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 4.5,
+      "max": 4.5
+    }
+  },
+  "Amaara": {
+    "brand_name": "Amaara",
+    "product_count": 1,
+    "categories": [
+      "World Foods"
+    ],
+    "price_range": {
+      "min": 1.5,
+      "max": 1.5
+    }
+  }
+}

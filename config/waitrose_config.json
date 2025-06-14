@@ -1,0 +1,24 @@
+{
+  "store_name": "waitrose",
+  "base_url": "https://www.waitrose.com",
+  "crawl_priority": "medium",
+  "rate_limit": 1.0,
+  "categories": [
+    "household",
+    "toiletries_beauty",
+    "pet_shop",
+    "world_foods",
+    "meat_poultry",
+    "home_garden",
+    "toys_entertainment"
+  ],
+  "output": {
+    "raw_data": "data/waitrose/",
+    "processed_data": "processed/branded_products/waitrose_branded.json"
+  },
+  "validation": {
+    "use_image_matching": true,
+    "brand_validation": true,
+    "price_format_check": true
+  }
+}
