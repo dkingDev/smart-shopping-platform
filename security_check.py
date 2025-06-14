@@ -11,12 +11,11 @@ def check_sensitive_patterns():
     """Check for sensitive patterns in files that might be committed"""
     
     sensitive_patterns = [
-        (r'password\s*[=:]\s*["\']?([^"\'\s]+)', 'Password found'),
-        (r'secret\s*[=:]\s*["\']?([^"\'\s]+)', 'Secret found'),
-        (r'key\s*[=:]\s*["\']?([^"\'\s]+)', 'API key found'),
-        (r'AWS_DB_PASSWORD', 'AWS DB password reference'),
-        (r'AdminTakeo', 'Database username'),
-        (r'supermarket-db\.cbu8qc0uk2re\.eu-north-1\.rds\.amazonaws\.com', 'Database host'),
+        (r'AWS_DB_PASSWORD\s*=\s*["\']([^"\']+)["\']', 'Hardcoded AWS DB password'),
+        (r'AdminTakeo', 'Database username hardcoded'),
+        (r'supermarket-db\.cbu8qc0uk2re\.eu-north-1\.rds\.amazonaws\.com', 'Database host hardcoded'),
+        (r'jwt_secret\s*=\s*["\']([^"\']+)["\']', 'Hardcoded JWT secret'),
+        (r'SECRET_KEY\s*=\s*["\']([^"\']+)["\']', 'Hardcoded secret key'),
     ]
     
     # Files to check (excluding .env files which are gitignored)

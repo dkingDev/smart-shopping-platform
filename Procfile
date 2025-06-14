@@ -1,0 +1,1 @@
+web: gunicorn secure_aws_shopping:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT
