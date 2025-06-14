@@ -92,3 +92,33 @@ coverage/
 # Backup files
 *.backup
 *.bak
+
+# Additional security exclusions
+*.env*
+*secret*
+*credential*
+config/*.json
+database/backups/
+temp/
+tmp/
+test_results/
+*.pyc
+scripts/store_configs/
+scripts/*_crawler_internal.py
+crawler_logs/
+price_history/
+internal_docs/
+test_*.py
+demo_*.py
+check_*.py
+cleanup_*.py
+production_*.py
+live_*.py
+final_*.py
+fixed_*.py
+simple_*.py
+*_test.py
+*.zip
+Procfile
+runtime.txt
+run_*.py

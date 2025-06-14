@@ -23,7 +23,7 @@ class SmartShoppingApp {
         const hostname = window.location.hostname;
         
         if (hostname === 'localhost' || hostname === '127.0.0.1') {
-            return 'http://localhost:8888';
+            return 'http://localhost:9999';
         } else if (hostname.includes('github.io')) {
             // For GitHub Pages deployment - update this with your production API URL
             return 'https://your-production-api.com';

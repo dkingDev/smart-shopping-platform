@@ -49,14 +49,14 @@ class UniversalSmartCrawler:
         self.store_table = f"{self.store_name}_national_prices"
         self.connection = None
         self.session = None
-          # Database connection - AWS configuration
+        
+        # Database connection
         self.db_config = {
-            'host': os.getenv('AWS_DB_HOST'),
-            'database': os.getenv('AWS_DB_NAME'), 
-            'user': os.getenv('AWS_DB_USER'),
-            'password': os.getenv('AWS_DB_PASSWORD'),
-            'port': int(os.getenv('AWS_DB_PORT', 5432)),
-            'sslmode': 'require'
+            'host': os.getenv('DB_HOST'),
+            'database': os.getenv('DB_NAME'), 
+            'user': os.getenv('DB_USER'),
+            'password': os.getenv('DB_PASSWORD'),
+            'port': os.getenv('DB_PORT', 5432)
         }
     
     async def connect_db(self):
@@ -121,8 +121,7 @@ class UniversalSmartCrawler:
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
                             category_data = json.load(f)
-                        
-                        category_name = category_file.replace('.json', '').replace('_', ' ').title()
+                              category_name = category_file.replace('.json', '').replace('_', ' ').title()
                         
                         for product in category_data:
                             if 'name' in product and 'price' in product:
@@ -168,8 +167,7 @@ class UniversalSmartCrawler:
         """Crawl Tesco products - Placeholder for future implementation"""
         print("🛒 Tesco crawler not yet implemented")
         return []
-
-    async def crawl_asda(self) -> List[ProductPrice]:
+      async def crawl_asda(self) -> List[ProductPrice]:
         """Crawl ASDA products - Uses existing ASDA crawler logic"""
         print("🛒 Crawling ASDA products...")
         
