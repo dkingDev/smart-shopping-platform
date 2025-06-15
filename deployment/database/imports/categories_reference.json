@@ -1,0 +1,117 @@
+[
+  {
+    "category_id": "baby_toddler",
+    "category_name": "Baby Toddler",
+    "product_count": 2
+  },
+  {
+    "category_id": "bakery_cakes",
+    "category_name": "Bakery Cakes",
+    "product_count": 6
+  },
+  {
+    "category_id": "beer_wines_spirits",
+    "category_name": "Beer Wines Spirits",
+    "product_count": 3
+  },
+  {
+    "category_id": "chocolate_sweets",
+    "category_name": "Chocolate Sweets",
+    "product_count": 12
+  },
+  {
+    "category_id": "drinks",
+    "category_name": "Drinks",
+    "product_count": 11
+  },
+  {
+    "category_id": "fish_seafood",
+    "category_name": "Fish Seafood",
+    "product_count": 0
+  },
+  {
+    "category_id": "food_cupboard",
+    "category_name": "Food Cupboard",
+    "product_count": 22
+  },
+  {
+    "category_id": "food_to_order",
+    "category_name": "Food To Order",
+    "product_count": 0
+  },
+  {
+    "category_id": "free_from",
+    "category_name": "Free From",
+    "product_count": 3
+  },
+  {
+    "category_id": "fresh",
+    "category_name": "Fresh",
+    "product_count": 15
+  },
+  {
+    "category_id": "frozen",
+    "category_name": "Frozen",
+    "product_count": 0
+  },
+  {
+    "category_id": "fruit_veg",
+    "category_name": "Fruit Veg",
+    "product_count": 0
+  },
+  {
+    "category_id": "health_wellbeing_medicines",
+    "category_name": "Health Wellbeing Medicines",
+    "product_count": 8
+  },
+  {
+    "category_id": "home_garden",
+    "category_name": "Home Garden",
+    "product_count": 178
+  },
+  {
+    "category_id": "household",
+    "category_name": "Household",
+    "product_count": 585
+  },
+  {
+    "category_id": "meat_poultry",
+    "category_name": "Meat Poultry",
+    "product_count": 188
+  },
+  {
+    "category_id": "organic_shop",
+    "category_name": "Organic Shop",
+    "product_count": 124
+  },
+  {
+    "category_id": "pet_shop",
+    "category_name": "Pet Shop",
+    "product_count": 484
+  },
+  {
+    "category_id": "protein_shop",
+    "category_name": "Protein Shop",
+    "product_count": 98
+  },
+  {
+    "category_id": "toiletries_beauty",
+    "category_name": "Toiletries Beauty",
+    "product_count": 435
+  },
+  {
+    "category_id": "toys_entertainment",
+    "category_name": "Toys Entertainment",
+    "product_count": 464
+  },
+  {
+    "category_id": "vegan",
+    "category_name": "Vegan",
+    "product_count": 127
+  },
+  {
+    "category_id": "world_foods",
+    "category_name": "World Foods",
+    "product_count": 945
+  }
+]
