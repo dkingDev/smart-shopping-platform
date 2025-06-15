@@ -49,6 +49,8 @@ logs/
 smart_shopping*.log
 production_setup.log
 test_*.log
+debug*.txt
+error*.txt
 
 # Database
 *.db
@@ -61,30 +63,41 @@ htmlcov/
 .pytest_cache/
 
 # Temporary files
+.cache/
+tmp/
+temp/
 *.tmp
 *.temp
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Deployment
 deploy/
 .deployment/
 
-# Secrets
+# Secrets and Keys
 secrets/
 *.key
 *.pem
 *.crt
+ec2-key.pem
+*.ppk
 
-# Generated documentation
-docs/_build/
-site/
+# Environment and Configuration
+.env*
+!.env.example
+!.env.template
+config.ini
+config.json
+settings.json
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
+# Password and Token files
+*password*
+*secret*
+*token*
+cloudflare-secrets*
+aws-credentials*
 
 # Coverage directory used by tools like istanbul
 coverage/
@@ -92,3 +105,47 @@ coverage/
 # Backup files
 *.backup
 *.bak
+
+# AWS and Cloud Provider files
+*.aws
+aws-credentials*
+cloudflare-secrets*
+.aws/
+terraform.tfstate*
+*.tfvars
+
+# Deployment and Build artifacts
+deployment-package*.zip
+deployment-*.tar.gz
+build-artifacts/
+dist-*/
+release-*/
+
+# Logs and Debug files
+*.log
+logs/
+smart_shopping*.log
+production_setup.log
+test_*.log
+debug*.txt
+error*.txt
+
+# Temporary and Cache files
+.cache/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/settings.json
+.vscode/launch.json
+.idea/workspace.xml
+*.swp
+*.swo
+*~

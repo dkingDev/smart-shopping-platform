@@ -21,12 +21,11 @@ from dotenv import load_dotenv
 
 class DataFlowTester:
     """Test complete data flow from frontend to AWS database"""
-    
-    def __init__(self):
+      def __init__(self):
         load_dotenv()
         self.base_url = "http://localhost:8888"
         self.test_user_email = f"test_user_{int(time.time())}@example.com"
-        self.test_password = "testpass123"
+        self.test_password = os.getenv("TEST_PASSWORD", "TempTestPass123!")
         self.access_token = None
         self.user_id = None
         self.db_manager = None
